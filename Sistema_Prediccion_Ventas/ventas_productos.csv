@@ -1,0 +1,1501 @@
+ID,Producto,Categoria,Precio,Descuento,Stock,Publicidad,Calificacion,Visitas_Web,Mes,Dia_Semana,Temporada,Ventas
+1,Silla Gamer,Tecnologia,1323.4,28,280,Si,3.9,5784,Enero,Sabado,Fiestas Patrias,296
+2,Monitor,Accesorios,1618.19,35,369,Si,3.8,1735,Diciembre,Lunes,Navidad,311
+3,Router,Oficina,216.31,23,423,Si,1.8,5361,Enero,Lunes,Normal,275
+4,Monitor,Gaming,1411.52,27,197,Si,2.5,239,Octubre,Lunes,Navidad,246
+5,Escritorio,Gaming,335.31,50,373,No,3.1,1578,Julio,Martes,Black Friday,339
+6,Smartwatch,Tecnologia,613.42,38,283,No,4.8,8483,Marzo,Sabado,Black Friday,371
+7,Audifonos,Accesorios,1361.25,25,62,Si,1.9,6285,Abril,Domingo,Fiestas Patrias,253
+8,Mouse,Oficina,1743.22,46,44,No,4.6,1635,Febrero,Miercoles,Fiestas Patrias,261
+9,Smartwatch,Tecnologia,2325.58,1,399,Si,1.8,3893,Diciembre,Jueves,Navidad,226
+10,Disco SSD,Oficina,3228.12,7,471,No,1.8,1066,Febrero,Viernes,Fiestas Patrias,163
+11,Router,Accesorios,3364.88,20,217,Si,4.0,928,Diciembre,Lunes,Normal,172
+12,Smartwatch,Computo,997.65,44,50,Si,2.2,114,Febrero,Domingo,Campaña Escolar,283
+13,Tablet,Computo,74.41,8,353,Si,2.6,2745,Agosto,Sabado,Fiestas Patrias,266
+14,Impresora,Computo,2704.02,4,499,Si,2.4,6234,Abril,Sabado,Fiestas Patrias,259
+15,Router,Accesorios,3204.06,8,337,Si,2.8,3154,Septiembre,Sabado,Campaña Escolar,195
+16,Celular,Oficina,1151.64,34,181,Si,3.6,8204,Mayo,Sabado,Navidad,357
+17,Silla Gamer,Computo,1973.13,34,110,No,4.9,3890,Enero,Martes,Normal,213
+18,Tablet,Computo,911.12,26,402,No,3.8,6027,Febrero,Martes,Navidad,327
+19,Monitor,Oficina,108.46,12,188,Si,1.1,2840,Julio,Sabado,Black Friday,310
+20,Audifonos,Accesorios,2440.4,36,416,No,3.4,1728,Abril,Sabado,Navidad,247
+21,Escritorio,Gaming,2649.32,35,22,No,1.3,9964,Julio,Viernes,Black Friday,316
+22,Monitor,Accesorios,2192.75,5,293,Si,4.2,3677,Septiembre,Jueves,Normal,204
+23,Parlante,Tecnologia,1469.45,10,137,No,4.2,5642,Marzo,Sabado,Campaña Escolar,203
+24,Router,Tecnologia,813.21,12,242,No,2.2,8951,Julio,Jueves,Navidad,272
+25,Camara,Computo,1797.4,8,327,Si,1.9,713,Septiembre,Domingo,Normal,157
+26,Silla Gamer,Gaming,1825.39,40,189,Si,2.5,6635,Mayo,Domingo,Fiestas Patrias,332
+27,Audifonos,Oficina,3369.32,38,395,No,3.8,1686,Marzo,Jueves,Normal,212
+28,Camara,Accesorios,199.15,36,233,Si,4.6,5299,Septiembre,Lunes,Fiestas Patrias,399
+29,Teclado,Computo,1867.65,25,169,Si,3.2,4981,Marzo,Viernes,Navidad,291
+30,Router,Computo,862.72,37,289,No,2.9,7827,Agosto,Lunes,Normal,276
+31,Disco SSD,Computo,2224.68,10,249,Si,4.2,9389,Abril,Lunes,Campaña Escolar,326
+32,Mouse,Oficina,3007.09,35,412,Si,3.8,8388,Febrero,Domingo,Navidad,364
+33,Teclado,Oficina,1233.36,6,317,No,4.8,2009,Septiembre,Martes,Fiestas Patrias,212
+34,Monitor,Gaming,498.57,27,450,No,1.5,5584,Diciembre,Sabado,Campaña Escolar,269
+35,Tablet,Computo,3073.14,34,272,Si,3.6,8865,Agosto,Viernes,Black Friday,388
+36,Monitor,Accesorios,861.65,47,263,Si,4.6,3158,Febrero,Miercoles,Normal,369
+37,Router,Accesorios,3091.57,8,242,Si,2.4,2305,Enero,Lunes,Normal,167
+38,Mouse,Tecnologia,312.81,7,429,Si,4.6,8495,Junio,Lunes,Navidad,367
+39,Audifonos,Oficina,52.01,24,108,No,4.9,3011,Abril,Viernes,Campaña Escolar,255
+40,Monitor,Oficina,2427.8,15,454,Si,1.9,8402,Julio,Martes,Normal,231
+41,Silla Gamer,Oficina,82.9,13,286,No,1.7,9769,Junio,Jueves,Black Friday,328
+42,Parlante,Tecnologia,2308.49,32,185,Si,1.4,8100,Noviembre,Sabado,Normal,278
+43,Tablet,Computo,2234.44,21,247,Si,3.4,3486,Febrero,Martes,Campaña Escolar,266
+44,Camara,Oficina,1531.69,20,295,No,3.6,7072,Marzo,Jueves,Campaña Escolar,262
+45,Celular,Accesorios,1733.96,4,326,Si,3.0,7733,Febrero,Jueves,Navidad,283
+46,Laptop,Gaming,636.35,27,167,Si,4.8,3494,Enero,Lunes,Campaña Escolar,292
+47,Tablet,Oficina,3094.56,40,46,Si,4.7,351,Agosto,Martes,Black Friday,274
+48,Teclado,Oficina,1360.14,22,170,No,2.3,8369,Enero,Jueves,Fiestas Patrias,280
+49,Audifonos,Oficina,1316.95,41,232,No,4.4,5492,Diciembre,Sabado,Navidad,313
+50,Teclado,Accesorios,2160.23,21,160,Si,1.6,204,Mayo,Martes,Normal,169
+51,Escritorio,Computo,1047.61,25,282,No,4.4,7610,Enero,Lunes,Navidad,300
+52,Camara,Gaming,1041.7,25,364,Si,2.0,8766,Marzo,Lunes,Navidad,376
+53,Parlante,Accesorios,303.95,6,322,Si,3.5,2418,Febrero,Viernes,Normal,207
+54,Tablet,Tecnologia,196.67,50,480,Si,1.1,5969,Octubre,Martes,Navidad,382
+55,Router,Tecnologia,2032.41,21,60,No,2.9,624,Julio,Sabado,Navidad,184
+56,Disco SSD,Computo,155.14,14,63,Si,3.1,3174,Abril,Sabado,Fiestas Patrias,257
+57,Audifonos,Oficina,964.97,43,14,No,2.8,4919,Marzo,Sabado,Fiestas Patrias,282
+58,Impresora,Tecnologia,1901.41,39,317,Si,1.5,4515,Enero,Jueves,Navidad,306
+59,Mouse,Gaming,1816.73,29,156,Si,4.2,880,Abril,Viernes,Fiestas Patrias,285
+60,Disco SSD,Computo,892.99,25,126,No,1.3,1200,Febrero,Martes,Fiestas Patrias,186
+61,Teclado,Oficina,2441.99,0,67,Si,4.7,7855,Septiembre,Sabado,Fiestas Patrias,243
+62,Silla Gamer,Gaming,1818.1,4,287,Si,3.9,8180,Mayo,Sabado,Normal,253
+63,Audifonos,Tecnologia,882.1,15,444,Si,4.0,2794,Febrero,Sabado,Navidad,279
+64,Audifonos,Computo,347.67,29,247,Si,4.9,6667,Octubre,Martes,Fiestas Patrias,342
+65,Silla Gamer,Computo,1730.82,38,109,Si,1.7,9999,Septiembre,Jueves,Fiestas Patrias,331
+66,Mouse,Oficina,3323.03,35,299,No,2.0,6955,Mayo,Lunes,Normal,234
+67,Smartwatch,Accesorios,3268.36,31,266,No,3.2,4661,Noviembre,Miercoles,Campaña Escolar,245
+68,Camara,Oficina,3306.0,27,393,Si,3.5,901,Septiembre,Lunes,Normal,211
+69,Disco SSD,Accesorios,2022.65,49,172,Si,3.6,4050,Septiembre,Lunes,Fiestas Patrias,337
+70,Tablet,Accesorios,2198.27,0,426,Si,3.6,1116,Enero,Miercoles,Fiestas Patrias,203
+71,Disco SSD,Computo,701.35,12,21,Si,1.4,8995,Abril,Sabado,Campaña Escolar,255
+72,Impresora,Gaming,1130.04,25,467,Si,1.1,467,Julio,Viernes,Campaña Escolar,243
+73,Parlante,Accesorios,927.22,6,205,Si,3.8,5795,Marzo,Jueves,Normal,246
+74,Escritorio,Computo,2578.05,20,258,No,3.2,6038,Julio,Domingo,Campaña Escolar,235
+75,Teclado,Tecnologia,2632.14,34,186,No,3.9,1621,Julio,Domingo,Normal,221
+76,Monitor,Accesorios,1206.0,31,46,Si,2.0,3816,Agosto,Miercoles,Fiestas Patrias,254
+77,Monitor,Tecnologia,2633.03,24,364,No,1.4,8837,Noviembre,Martes,Black Friday,282
+78,Audifonos,Tecnologia,3136.42,48,109,No,1.0,7450,Mayo,Miercoles,Navidad,315
+79,Silla Gamer,Gaming,2968.06,8,464,No,4.8,2832,Junio,Lunes,Normal,171
+80,Teclado,Gaming,2218.79,4,108,No,3.4,5638,Mayo,Lunes,Normal,168
+81,Impresora,Computo,2638.26,22,153,Si,4.2,2206,Julio,Viernes,Navidad,263
+82,Tablet,Gaming,2476.29,46,85,No,3.8,1003,Abril,Miercoles,Normal,246
+83,Laptop,Gaming,2171.4,37,16,No,2.7,1241,Septiembre,Sabado,Campaña Escolar,196
+84,Tablet,Tecnologia,315.24,18,145,No,2.5,1415,Noviembre,Miercoles,Navidad,226
+85,Silla Gamer,Tecnologia,2848.54,6,226,No,3.4,3191,Diciembre,Miercoles,Navidad,183
+86,Silla Gamer,Oficina,1335.4,38,100,Si,2.0,4318,Junio,Jueves,Fiestas Patrias,328
+87,Monitor,Oficina,59.51,27,135,No,1.2,6669,Noviembre,Jueves,Campaña Escolar,274
+88,Tablet,Gaming,2609.86,2,470,Si,2.0,554,Enero,Miercoles,Fiestas Patrias,185
+89,Tablet,Gaming,1324.55,48,418,No,4.5,5079,Octubre,Sabado,Fiestas Patrias,367
+90,Celular,Oficina,3423.09,44,326,No,2.3,4225,Noviembre,Martes,Navidad,274
+91,Smartwatch,Accesorios,1856.4,10,261,No,1.3,9492,Noviembre,Lunes,Fiestas Patrias,227
+92,Mouse,Accesorios,598.43,48,23,Si,2.2,3634,Noviembre,Miercoles,Campaña Escolar,316
+93,Teclado,Tecnologia,2203.9,2,153,Si,3.9,7164,Enero,Martes,Black Friday,268
+94,Celular,Oficina,2178.06,7,131,No,1.8,3769,Noviembre,Viernes,Campaña Escolar,176
+95,Celular,Oficina,1249.67,49,37,Si,1.3,4885,Abril,Martes,Normal,245
+96,Smartwatch,Oficina,2852.01,27,249,No,1.7,1631,Abril,Martes,Navidad,215
+97,Laptop,Gaming,285.18,5,91,No,2.7,4854,Abril,Domingo,Normal,145
+98,Teclado,Oficina,3265.9,49,260,No,1.2,1065,Noviembre,Viernes,Navidad,284
+99,Smartwatch,Oficina,1330.09,0,155,No,4.9,7499,Octubre,Domingo,Navidad,253
+100,Parlante,Gaming,2950.57,12,426,No,2.9,7316,Agosto,Martes,Black Friday,260
+101,Audifonos,Accesorios,485.81,20,320,No,4.5,2050,Noviembre,Miercoles,Navidad,297
+102,Silla Gamer,Accesorios,3197.82,22,494,No,3.9,4859,Mayo,Jueves,Normal,219
+103,Monitor,Computo,2976.77,16,94,Si,2.8,6047,Junio,Miercoles,Navidad,239
+104,Teclado,Accesorios,741.15,0,378,Si,4.0,3469,Abril,Jueves,Campaña Escolar,215
+105,Mouse,Oficina,954.98,38,163,No,3.0,820,Julio,Miercoles,Navidad,286
+106,Tablet,Tecnologia,1940.64,4,487,No,4.5,6594,Abril,Domingo,Black Friday,272
+107,Disco SSD,Gaming,486.37,46,416,No,4.0,7046,Diciembre,Lunes,Navidad,404
+108,Celular,Tecnologia,3162.97,33,303,No,3.4,8067,Junio,Miercoles,Black Friday,324
+109,Camara,Gaming,1385.01,26,444,Si,4.6,1381,Octubre,Martes,Black Friday,274
+110,Audifonos,Oficina,3188.44,29,256,No,3.1,2230,Agosto,Lunes,Black Friday,278
+111,Silla Gamer,Oficina,2791.72,9,193,Si,4.4,2882,Diciembre,Martes,Black Friday,238
+112,Router,Gaming,3430.51,1,214,Si,1.8,1956,Enero,Jueves,Navidad,137
+113,Mouse,Oficina,1889.68,22,192,Si,3.3,6140,Marzo,Domingo,Black Friday,319
+114,Laptop,Computo,652.94,24,204,No,4.5,716,Julio,Miercoles,Campaña Escolar,205
+115,Impresora,Computo,2343.1,49,70,No,1.8,7620,Julio,Miercoles,Black Friday,317
+116,Parlante,Tecnologia,1229.71,21,414,Si,3.2,6426,Agosto,Lunes,Navidad,349
+117,Impresora,Accesorios,1258.85,45,43,Si,1.5,9995,Noviembre,Lunes,Normal,325
+118,Monitor,Accesorios,2801.95,21,248,Si,3.0,2928,Enero,Viernes,Campaña Escolar,230
+119,Teclado,Oficina,1332.96,16,35,Si,4.5,1326,Noviembre,Lunes,Navidad,247
+120,Celular,Computo,3235.67,13,483,Si,4.0,2175,Junio,Martes,Navidad,256
+121,Smartwatch,Accesorios,1629.62,44,163,Si,1.1,5176,Mayo,Lunes,Navidad,344
+122,Disco SSD,Computo,2628.66,44,283,No,2.8,6932,Octubre,Sabado,Black Friday,340
+123,Escritorio,Accesorios,1402.13,24,128,Si,2.5,8955,Febrero,Viernes,Campaña Escolar,328
+124,Escritorio,Computo,330.43,43,34,Si,4.6,6218,Noviembre,Viernes,Normal,333
+125,Impresora,Gaming,2383.28,2,242,Si,3.0,6421,Julio,Sabado,Fiestas Patrias,275
+126,Camara,Computo,2614.13,48,245,No,1.5,2522,Enero,Domingo,Black Friday,301
+127,Mouse,Oficina,1194.31,25,329,Si,3.3,926,Junio,Sabado,Black Friday,298
+128,Tablet,Accesorios,46.22,20,207,No,2.5,6817,Diciembre,Viernes,Fiestas Patrias,265
+129,Celular,Oficina,579.17,10,455,No,2.1,3785,Diciembre,Viernes,Fiestas Patrias,172
+130,Parlante,Accesorios,3438.68,30,15,Si,2.6,8245,Febrero,Miercoles,Black Friday,322
+131,Smartwatch,Oficina,38.44,48,103,No,1.7,5610,Octubre,Viernes,Black Friday,346
+132,Laptop,Oficina,1678.64,44,309,Si,1.8,9383,Junio,Martes,Black Friday,432
+133,Impresora,Computo,2494.11,19,234,No,3.9,6333,Junio,Miercoles,Navidad,266
+134,Camara,Tecnologia,1024.43,36,391,Si,1.6,7038,Septiembre,Martes,Normal,289
+135,Escritorio,Oficina,1873.41,32,399,No,2.3,59,Agosto,Viernes,Campaña Escolar,252
+136,Silla Gamer,Oficina,722.02,39,139,Si,1.4,1392,Agosto,Domingo,Normal,280
+137,Audifonos,Accesorios,2391.63,16,274,No,3.4,3540,Julio,Sabado,Campaña Escolar,212
+138,Silla Gamer,Gaming,2910.56,43,443,No,1.5,8617,Junio,Jueves,Navidad,326
+139,Tablet,Gaming,3468.43,33,85,No,2.5,2610,Junio,Miercoles,Black Friday,238
+140,Audifonos,Computo,2949.56,7,276,No,4.2,6463,Abril,Lunes,Campaña Escolar,239
+141,Mouse,Gaming,2802.39,34,222,Si,1.7,2948,Diciembre,Martes,Campaña Escolar,253
+142,Escritorio,Oficina,1268.73,44,51,No,2.6,9560,Mayo,Sabado,Navidad,388
+143,Mouse,Accesorios,2503.96,31,188,Si,3.5,6034,Mayo,Martes,Fiestas Patrias,296
+144,Audifonos,Tecnologia,828.1,32,459,No,3.2,3737,Diciembre,Viernes,Campaña Escolar,312
+145,Laptop,Tecnologia,817.01,38,444,No,2.7,1252,Septiembre,Miercoles,Campaña Escolar,245
+146,Mouse,Tecnologia,2783.21,28,298,No,3.1,9496,Octubre,Miercoles,Black Friday,310
+147,Celular,Computo,2014.56,28,47,No,4.0,1000,Marzo,Lunes,Fiestas Patrias,196
+148,Mouse,Tecnologia,2504.94,4,132,Si,4.0,6078,Julio,Jueves,Normal,190
+149,Teclado,Accesorios,405.0,35,374,Si,1.5,7913,Octubre,Miercoles,Normal,384
+150,Mouse,Gaming,1712.52,3,341,Si,4.1,144,Julio,Viernes,Navidad,220
+151,Smartwatch,Gaming,2102.58,35,301,No,3.9,2166,Julio,Jueves,Black Friday,257
+152,Parlante,Gaming,1494.12,25,311,Si,3.5,7833,Julio,Miercoles,Navidad,330
+153,Router,Tecnologia,1780.49,24,490,No,1.1,877,Abril,Sabado,Campaña Escolar,180
+154,Silla Gamer,Tecnologia,3217.25,4,385,Si,1.1,176,Marzo,Martes,Campaña Escolar,149
+155,Teclado,Tecnologia,550.84,27,296,No,3.4,5159,Julio,Jueves,Navidad,292
+156,Audifonos,Tecnologia,596.01,35,191,No,4.3,3122,Abril,Miercoles,Fiestas Patrias,269
+157,Mouse,Accesorios,3047.24,50,433,Si,3.4,7162,Mayo,Domingo,Navidad,369
+158,Tablet,Tecnologia,2761.51,25,434,No,1.5,586,Septiembre,Martes,Campaña Escolar,195
+159,Parlante,Accesorios,3025.04,37,395,No,2.9,8716,Febrero,Lunes,Campaña Escolar,293
+160,Router,Gaming,801.62,43,260,No,1.6,2040,Mayo,Jueves,Normal,266
+161,Escritorio,Computo,595.99,23,170,No,2.4,4807,Diciembre,Jueves,Fiestas Patrias,231
+162,Celular,Tecnologia,1812.8,16,93,No,2.8,4293,Octubre,Lunes,Black Friday,218
+163,Router,Computo,1462.89,27,72,Si,5.0,6754,Enero,Lunes,Campaña Escolar,288
+164,Smartwatch,Computo,1402.67,50,388,No,4.2,2129,Octubre,Lunes,Campaña Escolar,281
+165,Camara,Oficina,1649.45,48,438,No,2.5,7361,Mayo,Martes,Navidad,345
+166,Silla Gamer,Oficina,2718.84,46,203,No,3.1,5282,Febrero,Jueves,Fiestas Patrias,286
+167,Impresora,Computo,1414.66,37,444,No,1.6,6066,Noviembre,Lunes,Campaña Escolar,277
+168,Tablet,Oficina,2641.3,9,467,Si,4.6,6355,Mayo,Sabado,Black Friday,300
+169,Celular,Tecnologia,1442.39,22,64,Si,1.6,3512,Junio,Miercoles,Fiestas Patrias,233
+170,Smartwatch,Oficina,792.46,23,480,No,3.7,8569,Septiembre,Domingo,Normal,287
+171,Tablet,Tecnologia,382.3,46,238,No,1.7,7826,Abril,Viernes,Fiestas Patrias,368
+172,Silla Gamer,Oficina,2822.5,23,87,Si,3.4,2588,Enero,Martes,Fiestas Patrias,236
+173,Disco SSD,Computo,3370.02,36,191,Si,1.8,872,Agosto,Sabado,Black Friday,223
+174,Laptop,Gaming,3126.5,46,206,No,2.4,4891,Abril,Sabado,Campaña Escolar,298
+175,Camara,Tecnologia,2891.37,2,480,Si,1.1,1605,Septiembre,Jueves,Normal,116
+176,Parlante,Tecnologia,1941.12,33,62,No,2.2,5669,Agosto,Lunes,Campaña Escolar,277
+177,Disco SSD,Computo,3411.42,43,289,No,1.5,2729,Septiembre,Sabado,Fiestas Patrias,231
+178,Parlante,Oficina,653.73,49,124,Si,3.0,2649,Agosto,Martes,Black Friday,361
+179,Tablet,Accesorios,2451.98,24,368,Si,1.9,1351,Octubre,Viernes,Campaña Escolar,199
+180,Audifonos,Oficina,967.63,10,335,No,4.7,5525,Junio,Domingo,Navidad,272
+181,Parlante,Tecnologia,1753.36,33,26,No,2.6,7191,Mayo,Sabado,Fiestas Patrias,257
+182,Parlante,Accesorios,58.27,20,36,No,4.6,695,Agosto,Viernes,Black Friday,255
+183,Impresora,Gaming,2568.0,33,277,No,3.5,8696,Septiembre,Jueves,Black Friday,352
+184,Parlante,Accesorios,1427.25,45,73,No,2.4,5991,Diciembre,Martes,Navidad,316
+185,Monitor,Oficina,2588.36,50,190,No,3.4,4174,Enero,Miercoles,Black Friday,287
+186,Tablet,Accesorios,1257.74,48,196,No,2.2,9492,Agosto,Lunes,Campaña Escolar,323
+187,Parlante,Tecnologia,3323.59,46,161,No,4.7,6262,Agosto,Lunes,Navidad,283
+188,Laptop,Accesorios,1898.65,18,236,Si,4.4,7151,Julio,Domingo,Campaña Escolar,288
+189,Celular,Computo,3344.22,42,491,Si,3.5,7667,Junio,Viernes,Black Friday,380
+190,Parlante,Computo,2415.64,41,34,No,2.0,1302,Noviembre,Domingo,Navidad,267
+191,Impresora,Oficina,28.14,50,487,Si,1.0,6717,Septiembre,Lunes,Navidad,391
+192,Monitor,Computo,3212.25,16,339,No,3.8,8032,Abril,Sabado,Normal,212
+193,Mouse,Tecnologia,321.73,15,225,Si,4.0,2758,Agosto,Martes,Fiestas Patrias,279
+194,Laptop,Computo,2237.57,7,34,No,4.6,5437,Enero,Miercoles,Fiestas Patrias,216
+195,Tablet,Accesorios,789.81,25,498,Si,4.8,8288,Abril,Viernes,Black Friday,398
+196,Teclado,Accesorios,3497.75,25,478,Si,2.9,440,Febrero,Viernes,Black Friday,246
+197,Celular,Gaming,138.13,6,146,No,1.8,8057,Marzo,Martes,Black Friday,286
+198,Celular,Computo,2959.03,17,452,No,4.3,5442,Noviembre,Lunes,Black Friday,270
+199,Silla Gamer,Gaming,2282.58,23,492,No,3.2,8030,Marzo,Lunes,Black Friday,319
+200,Router,Computo,1202.76,22,373,No,3.3,6690,Noviembre,Jueves,Fiestas Patrias,267
+201,Parlante,Computo,1893.64,21,418,Si,4.0,8734,Abril,Jueves,Black Friday,333
+202,Monitor,Oficina,104.91,41,43,No,1.1,3860,Octubre,Miercoles,Navidad,296
+203,Escritorio,Computo,263.7,45,38,No,4.1,8486,Enero,Domingo,Black Friday,429
+204,Laptop,Gaming,965.47,9,423,No,2.7,3480,Noviembre,Domingo,Normal,171
+205,Parlante,Computo,1838.37,0,487,Si,1.0,1215,Abril,Viernes,Fiestas Patrias,194
+206,Silla Gamer,Accesorios,2510.13,36,162,Si,2.1,8223,Octubre,Miercoles,Campaña Escolar,299
+207,Disco SSD,Tecnologia,176.95,14,314,Si,2.6,9205,Mayo,Domingo,Black Friday,370
+208,Router,Computo,3307.67,10,71,No,3.5,7928,Diciembre,Martes,Normal,171
+209,Impresora,Oficina,3469.27,7,157,No,4.4,5479,Marzo,Martes,Campaña Escolar,188
+210,Camara,Gaming,822.73,33,322,No,1.9,6452,Mayo,Domingo,Campaña Escolar,334
+211,Disco SSD,Oficina,2895.2,4,270,Si,3.5,776,Mayo,Sabado,Fiestas Patrias,204
+212,Celular,Tecnologia,2442.15,23,12,No,4.3,4926,Marzo,Domingo,Campaña Escolar,208
+213,Parlante,Gaming,798.89,46,98,Si,3.4,1983,Junio,Lunes,Black Friday,337
+214,Audifonos,Gaming,1381.27,27,38,No,4.6,5066,Febrero,Jueves,Fiestas Patrias,279
+215,Router,Oficina,2985.63,41,18,Si,2.3,9802,Noviembre,Miercoles,Normal,278
+216,Celular,Tecnologia,1441.42,14,47,Si,2.0,4022,Octubre,Viernes,Fiestas Patrias,224
+217,Silla Gamer,Tecnologia,189.77,17,463,No,4.8,9953,Noviembre,Domingo,Black Friday,354
+218,Silla Gamer,Oficina,2982.2,39,310,Si,2.9,2446,Febrero,Martes,Normal,251
+219,Audifonos,Oficina,3174.67,2,65,Si,3.6,6233,Febrero,Lunes,Campaña Escolar,168
+220,Tablet,Oficina,3077.63,18,345,No,3.6,1754,Junio,Sabado,Navidad,219
+221,Router,Accesorios,1182.35,44,354,No,4.7,4336,Julio,Sabado,Normal,272
+222,Router,Oficina,3088.1,44,323,Si,2.9,5200,Mayo,Lunes,Fiestas Patrias,327
+223,Celular,Oficina,2893.84,9,169,Si,2.3,3791,Abril,Domingo,Fiestas Patrias,230
+224,Silla Gamer,Computo,920.24,1,233,Si,1.3,9932,Septiembre,Sabado,Fiestas Patrias,272
+225,Tablet,Computo,3434.53,16,369,Si,2.0,4593,Abril,Lunes,Black Friday,289
+226,Silla Gamer,Accesorios,392.29,29,464,Si,3.2,9489,Noviembre,Sabado,Navidad,400
+227,Laptop,Computo,2943.62,27,69,Si,1.7,5134,Abril,Martes,Navidad,251
+228,Mouse,Gaming,2702.57,3,228,Si,1.7,9159,Abril,Viernes,Campaña Escolar,244
+229,Impresora,Accesorios,2485.83,0,31,Si,3.5,6403,Octubre,Lunes,Fiestas Patrias,217
+230,Teclado,Gaming,105.56,10,42,Si,2.3,9695,Mayo,Domingo,Campaña Escolar,276
+231,Silla Gamer,Tecnologia,1650.52,3,474,Si,1.4,88,Marzo,Lunes,Fiestas Patrias,207
+232,Router,Computo,1058.34,31,139,Si,4.1,3205,Enero,Martes,Fiestas Patrias,293
+233,Teclado,Oficina,2297.7,26,204,No,4.8,1038,Septiembre,Lunes,Normal,183
+234,Celular,Computo,2242.07,5,156,No,2.1,5676,Septiembre,Viernes,Normal,162
+235,Camara,Accesorios,1444.48,37,24,No,4.0,3106,Octubre,Lunes,Navidad,249
+236,Celular,Tecnologia,3027.97,15,36,No,4.9,6623,Enero,Jueves,Black Friday,279
+237,Silla Gamer,Tecnologia,728.88,28,318,Si,1.6,1100,Agosto,Sabado,Black Friday,296
+238,Disco SSD,Tecnologia,2199.25,43,190,Si,4.6,4523,Junio,Viernes,Campaña Escolar,333
+239,Teclado,Computo,2165.94,45,24,No,2.9,1925,Octubre,Sabado,Navidad,233
+240,Tablet,Gaming,1730.75,21,126,No,3.4,633,Septiembre,Miercoles,Black Friday,211
+241,Mouse,Tecnologia,1100.06,12,218,Si,1.0,8515,Noviembre,Sabado,Navidad,272
+242,Tablet,Oficina,3411.96,37,41,No,3.6,8970,Abril,Jueves,Fiestas Patrias,313
+243,Tablet,Oficina,3013.23,37,434,No,1.2,263,Diciembre,Lunes,Fiestas Patrias,194
+244,Impresora,Computo,377.72,45,169,Si,1.1,2770,Junio,Martes,Black Friday,343
+245,Mouse,Tecnologia,1967.58,31,251,No,2.3,51,Febrero,Jueves,Normal,192
+246,Smartwatch,Accesorios,307.13,12,125,No,2.4,3224,Septiembre,Lunes,Navidad,223
+247,Silla Gamer,Tecnologia,481.85,38,99,Si,3.8,3091,Julio,Miercoles,Black Friday,342
+248,Audifonos,Gaming,3331.39,2,132,Si,1.1,6967,Mayo,Miercoles,Normal,156
+249,Teclado,Oficina,2165.78,30,425,No,2.2,8957,Abril,Domingo,Normal,276
+250,Parlante,Gaming,2810.01,46,260,Si,2.9,508,Junio,Lunes,Fiestas Patrias,286
+251,Smartwatch,Oficina,3133.96,3,399,Si,4.3,8651,Septiembre,Domingo,Navidad,275
+252,Router,Computo,590.72,13,468,No,3.9,7229,Enero,Martes,Fiestas Patrias,282
+253,Disco SSD,Computo,879.92,12,34,Si,4.5,3688,Junio,Lunes,Campaña Escolar,275
+254,Router,Oficina,3053.98,31,316,Si,1.6,7107,Febrero,Martes,Normal,255
+255,Escritorio,Gaming,2293.36,36,361,No,3.2,9324,Abril,Jueves,Black Friday,327
+256,Impresora,Accesorios,2387.19,28,447,Si,1.1,402,Junio,Miercoles,Fiestas Patrias,241
+257,Disco SSD,Tecnologia,2944.77,48,359,Si,4.8,1006,Marzo,Martes,Navidad,335
+258,Silla Gamer,Tecnologia,2579.02,19,453,No,1.2,1762,Mayo,Jueves,Black Friday,235
+259,Router,Oficina,1808.71,40,429,Si,1.1,5681,Julio,Miercoles,Campaña Escolar,345
+260,Impresora,Oficina,2779.49,38,435,No,5.0,9511,Febrero,Miercoles,Navidad,396
+261,Camara,Computo,1269.85,2,246,Si,2.9,3008,Enero,Martes,Black Friday,255
+262,Laptop,Accesorios,1430.48,29,96,No,3.5,575,Mayo,Martes,Campaña Escolar,190
+263,Audifonos,Computo,3400.45,36,334,No,1.3,4698,Febrero,Lunes,Black Friday,277
+264,Teclado,Accesorios,1569.66,38,482,No,3.7,3864,Julio,Viernes,Campaña Escolar,283
+265,Mouse,Oficina,589.06,24,37,Si,2.0,9494,Diciembre,Lunes,Black Friday,344
+266,Celular,Tecnologia,2103.52,35,310,No,1.9,6480,Junio,Viernes,Black Friday,303
+267,Escritorio,Oficina,841.46,2,127,Si,1.7,5774,Mayo,Lunes,Black Friday,272
+268,Impresora,Accesorios,1519.49,19,273,Si,3.5,6706,Octubre,Jueves,Fiestas Patrias,284
+269,Tablet,Tecnologia,898.8,19,293,No,1.1,6102,Abril,Jueves,Navidad,270
+270,Camara,Tecnologia,2740.63,43,321,No,3.3,1792,Julio,Domingo,Fiestas Patrias,210
+271,Monitor,Computo,1962.33,19,379,Si,4.9,1018,Marzo,Lunes,Navidad,287
+272,Camara,Gaming,156.92,34,207,No,1.7,5228,Abril,Domingo,Fiestas Patrias,280
+273,Escritorio,Accesorios,1120.22,48,188,No,1.2,4635,Abril,Lunes,Campaña Escolar,272
+274,Monitor,Accesorios,2407.17,33,226,Si,3.6,9450,Octubre,Martes,Normal,261
+275,Smartwatch,Oficina,2038.79,46,436,No,3.0,7645,Agosto,Domingo,Navidad,334
+276,Silla Gamer,Gaming,481.85,15,443,No,1.8,4520,Noviembre,Sabado,Navidad,261
+277,Parlante,Computo,585.09,20,138,No,3.9,6862,Marzo,Jueves,Normal,261
+278,Celular,Computo,636.48,33,202,No,4.4,6139,Mayo,Viernes,Normal,271
+279,Camara,Tecnologia,80.96,17,154,Si,4.3,352,Mayo,Jueves,Black Friday,266
+280,Laptop,Computo,3259.7,45,461,No,3.7,3174,Mayo,Lunes,Normal,251
+281,Celular,Gaming,2341.06,40,99,No,2.4,4083,Septiembre,Domingo,Normal,216
+282,Disco SSD,Gaming,3050.22,8,254,No,3.3,538,Noviembre,Martes,Fiestas Patrias,150
+283,Camara,Accesorios,399.7,33,390,No,4.1,1717,Enero,Jueves,Normal,267
+284,Escritorio,Tecnologia,2672.75,40,288,Si,2.7,5500,Septiembre,Sabado,Campaña Escolar,316
+285,Monitor,Oficina,1327.34,6,98,Si,2.3,7282,Agosto,Viernes,Navidad,238
+286,Impresora,Computo,2440.23,28,482,No,3.4,8977,Mayo,Jueves,Black Friday,303
+287,Silla Gamer,Gaming,1318.92,43,111,Si,1.3,7060,Enero,Domingo,Fiestas Patrias,334
+288,Impresora,Tecnologia,2662.52,8,12,No,3.2,6521,Septiembre,Sabado,Black Friday,197
+289,Audifonos,Gaming,1826.4,5,421,Si,1.1,1227,Marzo,Miercoles,Normal,124
+290,Disco SSD,Computo,1678.9,42,441,Si,3.2,6620,Mayo,Sabado,Black Friday,392
+291,Router,Tecnologia,83.45,22,116,No,1.0,5293,Mayo,Viernes,Black Friday,269
+292,Parlante,Accesorios,1342.66,3,286,Si,2.9,4932,Noviembre,Sabado,Navidad,261
+293,Silla Gamer,Oficina,372.94,3,382,No,2.1,3660,Septiembre,Miercoles,Normal,171
+294,Audifonos,Accesorios,2041.64,41,429,Si,3.9,6837,Abril,Miercoles,Black Friday,404
+295,Monitor,Accesorios,2884.65,29,468,Si,1.5,7102,Marzo,Lunes,Fiestas Patrias,286
+296,Camara,Gaming,2781.06,41,449,No,4.9,9717,Diciembre,Viernes,Normal,305
+297,Disco SSD,Gaming,322.9,0,181,Si,1.2,6334,Marzo,Viernes,Black Friday,284
+298,Teclado,Accesorios,3097.04,8,35,Si,1.8,59,Diciembre,Domingo,Navidad,168
+299,Escritorio,Oficina,628.21,41,81,Si,4.1,1122,Enero,Jueves,Fiestas Patrias,312
+300,Celular,Gaming,976.33,18,109,Si,2.7,3323,Mayo,Domingo,Black Friday,260
+301,Camara,Accesorios,2837.16,18,173,Si,1.6,9704,Mayo,Domingo,Black Friday,281
+302,Impresora,Gaming,2584.32,33,170,No,1.9,8903,Agosto,Jueves,Fiestas Patrias,282
+303,Camara,Gaming,102.26,14,428,Si,3.4,7377,Julio,Martes,Campaña Escolar,289
+304,Parlante,Computo,2219.41,24,267,No,2.1,4408,Enero,Sabado,Black Friday,268
+305,Camara,Tecnologia,2439.1,2,51,Si,2.7,6652,Diciembre,Domingo,Navidad,237
+306,Audifonos,Tecnologia,2032.79,38,118,Si,1.3,7893,Marzo,Miercoles,Black Friday,330
+307,Parlante,Oficina,687.7,7,362,No,1.9,2522,Febrero,Martes,Black Friday,200
+308,Disco SSD,Tecnologia,2914.88,4,437,No,1.9,7447,Julio,Lunes,Black Friday,276
+309,Monitor,Oficina,2082.99,2,309,Si,2.3,7476,Febrero,Miercoles,Campaña Escolar,206
+310,Impresora,Tecnologia,3484.27,22,295,Si,2.3,711,Diciembre,Sabado,Fiestas Patrias,175
+311,Teclado,Tecnologia,1976.79,35,462,Si,1.7,3424,Mayo,Domingo,Black Friday,324
+312,Smartwatch,Oficina,356.43,15,21,Si,2.4,3769,Agosto,Viernes,Normal,182
+313,Laptop,Computo,2788.17,15,39,No,1.9,4493,Abril,Domingo,Campaña Escolar,185
+314,Mouse,Computo,867.93,29,158,Si,1.4,6599,Abril,Miercoles,Normal,282
+315,Monitor,Oficina,330.15,38,297,No,1.5,9765,Noviembre,Domingo,Navidad,335
+316,Mouse,Tecnologia,1273.27,20,267,Si,4.7,2546,Agosto,Viernes,Navidad,272
+317,Silla Gamer,Gaming,1083.22,22,163,No,3.4,4456,Octubre,Martes,Campaña Escolar,244
+318,Tablet,Tecnologia,2019.56,36,253,No,1.8,610,Octubre,Miercoles,Campaña Escolar,198
+319,Teclado,Tecnologia,424.96,17,438,Si,2.5,7679,Septiembre,Miercoles,Normal,299
+320,Tablet,Oficina,1080.28,8,408,No,2.6,6771,Enero,Sabado,Black Friday,282
+321,Audifonos,Tecnologia,555.19,34,475,No,4.8,6147,Junio,Domingo,Normal,326
+322,Monitor,Tecnologia,481.19,32,173,Si,3.4,9375,Octubre,Sabado,Fiestas Patrias,369
+323,Laptop,Computo,3145.95,45,390,No,2.3,2580,Septiembre,Miercoles,Campaña Escolar,229
+324,Escritorio,Oficina,1299.02,7,414,Si,1.1,586,Noviembre,Martes,Campaña Escolar,182
+325,Escritorio,Oficina,829.28,44,453,Si,4.1,8784,Enero,Miercoles,Campaña Escolar,345
+326,Smartwatch,Accesorios,387.71,5,169,No,1.9,4399,Enero,Miercoles,Fiestas Patrias,199
+327,Parlante,Gaming,2116.89,22,476,Si,2.5,6538,Agosto,Miercoles,Normal,270
+328,Audifonos,Computo,3443.2,18,402,No,1.6,5498,Enero,Domingo,Fiestas Patrias,200
+329,Mouse,Computo,2743.78,45,380,No,1.7,8641,Julio,Jueves,Black Friday,345
+330,Impresora,Accesorios,3488.51,16,110,No,3.5,9061,Agosto,Sabado,Black Friday,248
+331,Disco SSD,Gaming,624.66,35,133,No,4.4,7907,Mayo,Domingo,Normal,265
+332,Mouse,Oficina,1299.8,27,479,No,4.3,6190,Octubre,Domingo,Campaña Escolar,292
+333,Impresora,Tecnologia,2697.18,1,71,No,2.9,2343,Febrero,Miercoles,Fiestas Patrias,138
+334,Celular,Gaming,2389.79,38,398,No,1.9,6406,Diciembre,Jueves,Campaña Escolar,306
+335,Impresora,Oficina,2923.38,44,222,No,1.8,4318,Enero,Sabado,Fiestas Patrias,253
+336,Audifonos,Tecnologia,945.16,10,200,No,3.0,5937,Febrero,Sabado,Black Friday,247
+337,Camara,Accesorios,361.33,25,205,No,4.5,4769,Enero,Martes,Navidad,293
+338,Laptop,Accesorios,1328.09,28,431,No,2.6,2722,Febrero,Martes,Fiestas Patrias,282
+339,Tablet,Gaming,3344.56,16,129,No,2.3,6322,Enero,Viernes,Campaña Escolar,198
+340,Impresora,Computo,900.64,39,286,Si,4.3,825,Agosto,Domingo,Normal,270
+341,Camara,Computo,3135.01,7,442,Si,3.5,7149,Julio,Miercoles,Fiestas Patrias,278
+342,Mouse,Tecnologia,387.81,43,458,No,2.8,9273,Diciembre,Martes,Black Friday,396
+343,Disco SSD,Gaming,165.02,22,52,No,3.6,8649,Febrero,Miercoles,Fiestas Patrias,240
+344,Monitor,Gaming,1627.58,35,148,Si,4.9,5380,Mayo,Sabado,Black Friday,356
+345,Mouse,Accesorios,2321.57,27,60,No,1.7,9014,Febrero,Jueves,Campaña Escolar,273
+346,Mouse,Computo,942.36,37,120,No,1.3,7554,Noviembre,Miercoles,Normal,271
+347,Disco SSD,Computo,1048.15,39,418,No,4.9,9204,Marzo,Sabado,Campaña Escolar,367
+348,Camara,Accesorios,2715.73,40,226,Si,3.1,4335,Febrero,Martes,Campaña Escolar,273
+349,Smartwatch,Oficina,3137.43,9,158,No,1.5,6028,Enero,Miercoles,Navidad,194
+350,Celular,Gaming,2046.83,30,409,Si,4.2,8764,Marzo,Viernes,Normal,327
+351,Audifonos,Oficina,172.2,16,433,No,3.4,5834,Diciembre,Sabado,Black Friday,322
+352,Smartwatch,Oficina,1372.51,49,287,No,2.1,735,Octubre,Lunes,Campaña Escolar,216
+353,Silla Gamer,Tecnologia,64.25,20,492,No,3.7,5391,Agosto,Jueves,Navidad,306
+354,Teclado,Gaming,2647.55,20,135,Si,4.4,7577,Noviembre,Viernes,Campaña Escolar,287
+355,Tablet,Gaming,1961.19,22,245,Si,1.2,8839,Enero,Domingo,Normal,244
+356,Audifonos,Accesorios,1897.66,12,475,No,1.4,4608,Marzo,Miercoles,Campaña Escolar,223
+357,Camara,Computo,339.71,49,104,No,3.0,4233,Febrero,Miercoles,Campaña Escolar,284
+358,Teclado,Computo,2658.48,32,193,Si,3.4,1703,Octubre,Viernes,Normal,186
+359,Router,Gaming,1986.28,28,39,No,4.5,9546,Marzo,Martes,Navidad,301
+360,Parlante,Gaming,1626.22,15,81,Si,2.0,9526,Enero,Domingo,Normal,259
+361,Laptop,Gaming,3087.45,3,113,No,1.8,8083,Mayo,Sabado,Campaña Escolar,179
+362,Router,Tecnologia,2571.09,38,228,No,1.8,2209,Agosto,Sabado,Navidad,217
+363,Silla Gamer,Computo,2747.6,35,95,No,4.4,8555,Agosto,Martes,Black Friday,294
+364,Celular,Tecnologia,538.13,5,321,No,3.0,747,Diciembre,Lunes,Campaña Escolar,150
+365,Tablet,Oficina,1301.72,3,29,Si,4.1,1063,Agosto,Martes,Fiestas Patrias,153
+366,Impresora,Computo,1455.92,39,368,No,1.0,5941,Diciembre,Domingo,Fiestas Patrias,314
+367,Teclado,Computo,650.99,44,29,No,2.6,2613,Septiembre,Viernes,Normal,271
+368,Monitor,Oficina,382.4,3,385,Si,3.4,211,Febrero,Miercoles,Black Friday,245
+369,Teclado,Tecnologia,2105.8,18,168,No,1.1,3440,Enero,Miercoles,Black Friday,235
+370,Monitor,Accesorios,2482.73,30,365,Si,3.1,8673,Junio,Viernes,Fiestas Patrias,317
+371,Smartwatch,Accesorios,1319.65,29,192,No,3.9,1219,Agosto,Viernes,Black Friday,248
+372,Disco SSD,Computo,2808.76,46,468,No,3.9,5287,Agosto,Lunes,Normal,279
+373,Camara,Oficina,2256.13,16,207,No,3.5,2060,Abril,Martes,Navidad,225
+374,Laptop,Tecnologia,3327.09,4,70,No,4.9,5118,Mayo,Jueves,Navidad,213
+375,Audifonos,Gaming,2456.88,29,263,No,3.3,2807,Enero,Domingo,Normal,160
+376,Teclado,Computo,3293.56,41,44,No,2.7,8049,Diciembre,Miercoles,Black Friday,308
+377,Laptop,Oficina,667.63,48,414,Si,2.8,6454,Enero,Viernes,Navidad,419
+378,Impresora,Gaming,193.45,38,428,No,2.7,3434,Mayo,Lunes,Black Friday,356
+379,Smartwatch,Gaming,44.46,40,191,Si,1.9,7581,Mayo,Domingo,Navidad,382
+380,Teclado,Tecnologia,2306.2,35,222,No,1.3,9117,Julio,Miercoles,Fiestas Patrias,273
+381,Smartwatch,Accesorios,175.19,21,229,No,2.1,2024,Abril,Viernes,Navidad,235
+382,Camara,Tecnologia,966.39,30,115,No,4.4,631,Enero,Lunes,Campaña Escolar,232
+383,Smartwatch,Oficina,247.47,44,237,Si,1.1,2693,Septiembre,Jueves,Campaña Escolar,324
+384,Impresora,Gaming,1223.8,49,426,No,4.1,9664,Junio,Martes,Black Friday,457
+385,Router,Computo,95.95,10,157,No,1.5,9185,Septiembre,Domingo,Navidad,242
+386,Escritorio,Gaming,2563.26,20,91,No,1.6,3720,Mayo,Jueves,Normal,141
+387,Impresora,Tecnologia,709.38,23,314,Si,2.9,6026,Julio,Viernes,Fiestas Patrias,294
+388,Router,Oficina,329.16,21,298,Si,3.1,622,Mayo,Sabado,Navidad,306
+389,Escritorio,Tecnologia,3013.29,42,178,No,4.2,4674,Octubre,Jueves,Campaña Escolar,241
+390,Teclado,Accesorios,2967.28,9,350,Si,1.6,3187,Enero,Viernes,Normal,180
+391,Laptop,Oficina,359.52,15,377,No,2.8,3800,Junio,Jueves,Campaña Escolar,219
+392,Escritorio,Accesorios,1803.51,9,108,No,1.2,1904,Julio,Viernes,Navidad,167
+393,Parlante,Tecnologia,1750.45,31,400,Si,4.5,9419,Diciembre,Martes,Navidad,411
+394,Camara,Computo,1827.46,39,222,No,3.6,831,Noviembre,Jueves,Navidad,247
+395,Impresora,Accesorios,851.01,40,177,No,4.9,7243,Agosto,Viernes,Fiestas Patrias,369
+396,Silla Gamer,Computo,347.65,2,465,Si,2.1,1627,Octubre,Jueves,Campaña Escolar,255
+397,Audifonos,Gaming,1752.39,5,176,No,3.6,6794,Mayo,Martes,Fiestas Patrias,198
+398,Escritorio,Accesorios,1554.93,10,277,No,3.1,8137,Diciembre,Sabado,Black Friday,272
+399,Celular,Computo,1261.21,40,173,No,2.1,7289,Septiembre,Domingo,Fiestas Patrias,290
+400,Mouse,Gaming,3204.51,39,219,No,1.6,3575,Noviembre,Viernes,Black Friday,284
+401,Parlante,Computo,2780.55,6,345,No,4.4,308,Marzo,Miercoles,Normal,179
+402,Escritorio,Tecnologia,136.17,7,110,No,3.9,737,Junio,Jueves,Fiestas Patrias,184
+403,Monitor,Accesorios,549.32,3,487,No,3.5,5956,Septiembre,Miercoles,Navidad,267
+404,Teclado,Tecnologia,1778.12,15,138,Si,2.7,5158,Octubre,Sabado,Navidad,270
+405,Monitor,Tecnologia,2344.36,12,171,Si,1.7,1175,Noviembre,Viernes,Campaña Escolar,185
+406,Laptop,Tecnologia,343.75,3,290,Si,4.3,7883,Julio,Miercoles,Black Friday,307
+407,Silla Gamer,Accesorios,296.33,4,236,No,1.7,314,Enero,Viernes,Campaña Escolar,153
+408,Silla Gamer,Oficina,2491.64,43,386,No,2.9,3040,Agosto,Sabado,Campaña Escolar,292
+409,Impresora,Computo,2287.8,8,222,Si,2.0,9396,Noviembre,Lunes,Normal,234
+410,Camara,Tecnologia,870.3,27,257,Si,1.3,9222,Marzo,Jueves,Campaña Escolar,341
+411,Parlante,Oficina,1482.01,33,50,Si,4.0,5483,Agosto,Martes,Fiestas Patrias,281
+412,Laptop,Computo,2028.83,16,334,No,4.2,8000,Octubre,Viernes,Normal,279
+413,Audifonos,Oficina,903.83,32,221,No,4.0,6099,Noviembre,Viernes,Navidad,339
+414,Disco SSD,Accesorios,262.35,38,463,Si,4.4,6194,Septiembre,Jueves,Fiestas Patrias,357
+415,Smartwatch,Tecnologia,2932.9,22,137,No,3.6,6709,Junio,Martes,Black Friday,258
+416,Escritorio,Accesorios,1274.11,20,236,No,4.1,998,Enero,Sabado,Fiestas Patrias,219
+417,Router,Accesorios,2293.01,13,493,No,4.5,4696,Marzo,Viernes,Black Friday,275
+418,Camara,Computo,3062.31,26,416,Si,1.7,1427,Febrero,Jueves,Normal,214
+419,Teclado,Oficina,1575.75,37,151,No,4.5,9081,Junio,Martes,Normal,292
+420,Tablet,Accesorios,2812.19,19,378,No,1.2,7049,Agosto,Domingo,Fiestas Patrias,208
+421,Audifonos,Gaming,114.57,37,224,No,1.5,4138,Diciembre,Viernes,Normal,255
+422,Silla Gamer,Computo,2643.79,8,293,Si,1.1,7280,Diciembre,Martes,Normal,197
+423,Celular,Computo,1965.96,18,440,No,2.8,9385,Marzo,Jueves,Navidad,310
+424,Escritorio,Tecnologia,355.94,29,274,Si,1.0,1812,Noviembre,Miercoles,Fiestas Patrias,299
+425,Monitor,Accesorios,807.7,13,231,No,3.4,8309,Agosto,Martes,Black Friday,272
+426,Tablet,Gaming,3461.82,15,486,Si,4.4,2529,Agosto,Domingo,Navidad,233
+427,Smartwatch,Accesorios,140.65,34,276,Si,5.0,9827,Noviembre,Domingo,Navidad,455
+428,Camara,Oficina,898.03,36,460,Si,3.0,7206,Septiembre,Sabado,Fiestas Patrias,378
+429,Disco SSD,Gaming,346.62,8,333,Si,4.5,4627,Febrero,Lunes,Navidad,302
+430,Router,Gaming,1820.71,46,433,No,2.3,6367,Marzo,Martes,Fiestas Patrias,339
+431,Mouse,Accesorios,2713.1,40,156,Si,4.6,6798,Diciembre,Viernes,Black Friday,389
+432,Disco SSD,Gaming,2245.83,6,357,No,1.4,5575,Agosto,Domingo,Normal,154
+433,Teclado,Gaming,2757.89,2,351,Si,2.1,2057,Julio,Jueves,Navidad,228
+434,Camara,Oficina,1781.81,22,431,Si,1.3,3786,Noviembre,Domingo,Fiestas Patrias,271
+435,Tablet,Computo,30.17,11,271,Si,1.2,7865,Enero,Sabado,Campaña Escolar,276
+436,Laptop,Oficina,1587.62,44,250,Si,3.5,8383,Junio,Sabado,Normal,308
+437,Disco SSD,Tecnologia,2145.51,44,349,No,1.8,6846,Agosto,Lunes,Fiestas Patrias,325
+438,Teclado,Accesorios,192.25,7,52,No,4.4,4747,Noviembre,Sabado,Black Friday,253
+439,Disco SSD,Oficina,1630.72,48,201,No,3.1,5532,Agosto,Domingo,Black Friday,326
+440,Mouse,Gaming,2867.36,20,316,Si,4.5,232,Marzo,Sabado,Fiestas Patrias,242
+441,Teclado,Gaming,3062.29,12,201,Si,3.8,5052,Julio,Viernes,Campaña Escolar,221
+442,Parlante,Tecnologia,1393.12,43,28,No,2.6,6182,Enero,Miercoles,Black Friday,304
+443,Camara,Oficina,918.44,47,426,No,4.3,6296,Abril,Martes,Black Friday,400
+444,Teclado,Computo,161.14,19,347,Si,2.0,5493,Abril,Sabado,Normal,273
+445,Smartwatch,Oficina,1355.76,35,91,Si,1.4,1824,Octubre,Domingo,Normal,252
+446,Monitor,Tecnologia,267.11,50,152,No,4.0,5939,Febrero,Viernes,Normal,303
+447,Router,Tecnologia,2346.63,40,211,No,2.4,9151,Abril,Sabado,Normal,291
+448,Celular,Accesorios,2151.76,27,268,Si,3.9,1678,Septiembre,Martes,Normal,232
+449,Camara,Computo,251.22,15,359,No,1.6,4058,Abril,Domingo,Navidad,215
+450,Router,Gaming,1711.28,44,472,Si,1.2,9478,Noviembre,Domingo,Fiestas Patrias,361
+451,Audifonos,Accesorios,2831.92,30,418,No,3.9,5674,Noviembre,Viernes,Campaña Escolar,263
+452,Audifonos,Computo,2984.41,35,108,Si,1.3,2170,Enero,Viernes,Navidad,238
+453,Silla Gamer,Oficina,1085.97,29,197,No,1.9,1873,Septiembre,Jueves,Normal,195
+454,Silla Gamer,Oficina,3209.89,22,369,No,4.6,1191,Septiembre,Miercoles,Black Friday,239
+455,Teclado,Computo,2475.44,32,417,No,2.5,6633,Julio,Martes,Navidad,307
+456,Monitor,Accesorios,175.83,0,202,No,4.8,5956,Mayo,Domingo,Campaña Escolar,205
+457,Disco SSD,Tecnologia,108.56,17,485,Si,1.0,1879,Septiembre,Jueves,Black Friday,286
+458,Tablet,Accesorios,2949.2,11,495,Si,2.8,5794,Mayo,Martes,Fiestas Patrias,278
+459,Disco SSD,Oficina,509.12,4,423,Si,1.1,492,Junio,Lunes,Navidad,195
+460,Laptop,Computo,365.57,45,372,Si,2.6,9499,Julio,Sabado,Navidad,425
+461,Parlante,Tecnologia,1396.11,5,324,Si,1.6,4390,Abril,Domingo,Navidad,254
+462,Celular,Accesorios,424.16,41,133,Si,2.3,6839,Junio,Miercoles,Normal,307
+463,Disco SSD,Accesorios,2118.24,8,378,Si,1.4,4204,Diciembre,Lunes,Black Friday,247
+464,Escritorio,Gaming,1361.58,47,287,Si,3.2,3286,Diciembre,Martes,Black Friday,369
+465,Camara,Computo,1683.02,12,171,No,1.7,4966,Mayo,Jueves,Black Friday,221
+466,Audifonos,Computo,1072.12,31,118,No,1.8,390,Junio,Viernes,Black Friday,257
+467,Mouse,Oficina,1211.72,43,30,No,4.9,408,Junio,Martes,Fiestas Patrias,230
+468,Tablet,Tecnologia,2048.79,34,406,Si,3.5,6702,Octubre,Domingo,Campaña Escolar,332
+469,Laptop,Computo,3478.59,17,113,No,2.3,6955,Septiembre,Viernes,Navidad,256
+470,Audifonos,Accesorios,534.98,4,154,No,3.8,3780,Abril,Miercoles,Campaña Escolar,189
+471,Router,Accesorios,480.66,26,126,No,3.4,1758,Agosto,Viernes,Fiestas Patrias,219
+472,Smartwatch,Oficina,2615.59,38,485,No,1.2,1257,Diciembre,Sabado,Black Friday,258
+473,Teclado,Computo,979.67,45,21,No,4.9,932,Marzo,Martes,Navidad,295
+474,Teclado,Gaming,1702.26,31,79,Si,3.4,7979,Noviembre,Lunes,Navidad,336
+475,Parlante,Tecnologia,1730.14,10,426,No,3.3,2504,Noviembre,Lunes,Normal,176
+476,Teclado,Accesorios,1733.29,49,474,Si,4.5,3852,Febrero,Sabado,Campaña Escolar,310
+477,Monitor,Gaming,1438.39,50,184,No,4.1,2869,Agosto,Miercoles,Normal,266
+478,Silla Gamer,Oficina,3486.51,7,125,No,1.0,2434,Enero,Lunes,Navidad,167
+479,Laptop,Tecnologia,2967.45,31,337,No,1.2,5492,Septiembre,Sabado,Fiestas Patrias,249
+480,Laptop,Gaming,2200.54,30,217,Si,4.1,4167,Diciembre,Sabado,Black Friday,258
+481,Mouse,Tecnologia,2413.27,42,332,Si,3.8,5979,Septiembre,Martes,Campaña Escolar,362
+482,Router,Gaming,2872.9,40,161,No,3.9,9551,Mayo,Domingo,Fiestas Patrias,340
+483,Smartwatch,Oficina,3351.92,46,172,No,5.0,2891,Febrero,Miercoles,Black Friday,287
+484,Router,Accesorios,69.82,0,301,Si,4.3,6194,Diciembre,Martes,Fiestas Patrias,290
+485,Silla Gamer,Tecnologia,260.22,12,241,No,4.7,2285,Febrero,Jueves,Black Friday,279
+486,Camara,Oficina,2963.81,1,200,Si,1.4,4947,Enero,Sabado,Normal,167
+487,Mouse,Oficina,290.22,3,423,Si,1.1,1148,Julio,Sabado,Fiestas Patrias,189
+488,Disco SSD,Gaming,2832.66,44,489,No,1.3,2180,Enero,Martes,Campaña Escolar,240
+489,Audifonos,Tecnologia,1838.57,15,75,Si,1.3,7963,Febrero,Sabado,Fiestas Patrias,251
+490,Teclado,Computo,525.28,25,22,Si,3.7,2605,Enero,Martes,Navidad,252
+491,Smartwatch,Oficina,3024.63,2,401,Si,2.2,4777,Febrero,Miercoles,Campaña Escolar,218
+492,Router,Oficina,1138.81,38,330,No,3.2,5839,Noviembre,Viernes,Fiestas Patrias,301
+493,Smartwatch,Accesorios,3426.85,20,412,No,2.4,7530,Diciembre,Sabado,Normal,197
+494,Laptop,Tecnologia,2524.87,31,455,No,2.8,7701,Julio,Martes,Normal,273
+495,Router,Gaming,2194.25,19,169,Si,3.1,6605,Octubre,Jueves,Fiestas Patrias,255
+496,Silla Gamer,Computo,1029.1,29,200,No,1.5,7276,Agosto,Jueves,Campaña Escolar,245
+497,Camara,Oficina,2718.2,17,21,No,3.0,4995,Julio,Martes,Navidad,224
+498,Mouse,Gaming,964.98,48,88,Si,1.4,9506,Mayo,Domingo,Campaña Escolar,378
+499,Mouse,Computo,1798.73,25,283,No,2.1,6402,Marzo,Jueves,Campaña Escolar,231
+500,Impresora,Computo,374.59,0,116,No,2.1,5843,Febrero,Lunes,Normal,186
+501,Celular,Computo,1110.45,35,347,Si,4.6,9348,Mayo,Lunes,Campaña Escolar,374
+502,Teclado,Oficina,3374.99,36,410,No,3.7,6411,Agosto,Viernes,Navidad,318
+503,Mouse,Tecnologia,1984.91,26,226,Si,3.8,6368,Febrero,Miercoles,Navidad,330
+504,Router,Gaming,2339.02,32,33,Si,4.0,5954,Junio,Domingo,Black Friday,306
+505,Audifonos,Oficina,2372.86,24,103,Si,2.1,7172,Julio,Domingo,Normal,240
+506,Router,Gaming,1360.22,40,364,Si,2.8,5827,Marzo,Sabado,Black Friday,351
+507,Teclado,Computo,2227.8,34,245,Si,1.0,5624,Mayo,Miercoles,Black Friday,303
+508,Mouse,Accesorios,2881.19,30,395,No,1.8,4474,Julio,Miercoles,Black Friday,295
+509,Celular,Tecnologia,3046.78,21,490,No,4.2,9438,Junio,Miercoles,Campaña Escolar,285
+510,Router,Gaming,3259.21,35,283,Si,3.9,6519,Abril,Jueves,Normal,272
+511,Audifonos,Tecnologia,2264.02,20,37,No,3.9,1511,Julio,Miercoles,Navidad,187
+512,Smartwatch,Computo,169.66,12,322,Si,4.3,1723,Agosto,Miercoles,Black Friday,292
+513,Audifonos,Computo,1912.44,46,62,No,3.8,3798,Octubre,Sabado,Campaña Escolar,276
+514,Impresora,Accesorios,129.35,2,120,No,2.3,3303,Julio,Miercoles,Fiestas Patrias,180
+515,Router,Accesorios,948.03,28,180,No,4.5,1451,Junio,Jueves,Fiestas Patrias,280
+516,Impresora,Tecnologia,1105.29,27,281,Si,4.1,2795,Octubre,Martes,Navidad,312
+517,Silla Gamer,Gaming,3002.81,41,196,Si,2.5,2842,Enero,Sabado,Black Friday,294
+518,Celular,Computo,81.08,24,42,No,4.0,2616,Diciembre,Lunes,Black Friday,257
+519,Teclado,Computo,1231.37,11,25,No,3.3,6566,Abril,Miercoles,Campaña Escolar,218
+520,Smartwatch,Oficina,2967.77,8,169,No,4.6,8885,Febrero,Jueves,Navidad,255
+521,Router,Oficina,3150.1,28,498,Si,4.7,5395,Septiembre,Viernes,Black Friday,372
+522,Smartwatch,Computo,1668.86,25,13,Si,4.8,8634,Diciembre,Domingo,Navidad,336
+523,Mouse,Accesorios,852.27,31,477,Si,3.2,6733,Noviembre,Sabado,Fiestas Patrias,334
+524,Silla Gamer,Gaming,2545.18,6,371,No,4.6,7518,Enero,Viernes,Black Friday,280
+525,Smartwatch,Oficina,981.31,12,190,No,3.1,5152,Febrero,Lunes,Normal,202
+526,Monitor,Gaming,2838.31,46,61,Si,2.3,7655,Diciembre,Viernes,Navidad,321
+527,Celular,Computo,1655.56,46,168,Si,3.8,3363,Julio,Jueves,Navidad,349
+528,Impresora,Tecnologia,1750.65,40,468,No,1.2,1746,Agosto,Lunes,Fiestas Patrias,255
+529,Disco SSD,Tecnologia,3353.61,26,235,No,2.0,3694,Febrero,Domingo,Campaña Escolar,209
+530,Audifonos,Computo,2667.77,13,211,No,1.7,1807,Agosto,Domingo,Campaña Escolar,153
+531,Impresora,Oficina,1971.84,5,102,No,2.9,542,Febrero,Jueves,Black Friday,157
+532,Mouse,Computo,3362.98,15,77,Si,4.8,2793,Enero,Domingo,Normal,196
+533,Parlante,Computo,2496.8,25,455,Si,3.3,5308,Noviembre,Lunes,Campaña Escolar,304
+534,Camara,Accesorios,632.81,37,383,No,1.1,9525,Septiembre,Martes,Fiestas Patrias,328
+535,Celular,Accesorios,2906.28,28,68,Si,2.4,1346,Julio,Sabado,Campaña Escolar,210
+536,Silla Gamer,Oficina,3421.03,7,150,Si,4.4,3473,Julio,Lunes,Navidad,233
+537,Celular,Gaming,1098.8,29,330,Si,2.8,3717,Julio,Jueves,Normal,292
+538,Monitor,Computo,1756.16,8,430,Si,1.0,1686,Diciembre,Domingo,Normal,177
+539,Smartwatch,Gaming,1331.91,27,435,Si,4.2,8198,Marzo,Miercoles,Fiestas Patrias,337
+540,Celular,Tecnologia,2971.19,7,441,No,1.4,4494,Mayo,Sabado,Black Friday,185
+541,Router,Oficina,1693.5,12,182,Si,1.5,7482,Octubre,Jueves,Navidad,274
+542,Impresora,Computo,1804.27,6,250,No,3.5,2501,Agosto,Viernes,Campaña Escolar,185
+543,Disco SSD,Gaming,2644.84,34,108,No,4.8,3724,Octubre,Lunes,Campaña Escolar,260
+544,Mouse,Accesorios,3473.7,28,477,No,3.3,1155,Mayo,Lunes,Campaña Escolar,177
+545,Escritorio,Accesorios,2305.08,49,266,Si,1.8,3749,Septiembre,Jueves,Black Friday,324
+546,Router,Oficina,3347.99,21,363,Si,3.7,2830,Julio,Martes,Black Friday,287
+547,Camara,Accesorios,1521.2,10,321,Si,3.3,6292,Agosto,Miercoles,Campaña Escolar,282
+548,Impresora,Oficina,520.47,6,312,Si,4.6,6347,Octubre,Lunes,Fiestas Patrias,277
+549,Celular,Accesorios,3126.1,20,471,No,4.1,9115,Abril,Domingo,Black Friday,315
+550,Tablet,Oficina,731.52,7,50,No,2.2,664,Julio,Sabado,Black Friday,199
+551,Teclado,Tecnologia,134.18,45,484,No,1.3,320,Octubre,Lunes,Campaña Escolar,268
+552,Laptop,Computo,350.78,26,49,Si,1.2,3657,Abril,Viernes,Fiestas Patrias,278
+553,Smartwatch,Oficina,1247.06,3,332,Si,3.1,6664,Octubre,Sabado,Black Friday,285
+554,Router,Tecnologia,1922.52,40,322,No,3.4,8941,Mayo,Domingo,Navidad,364
+555,Camara,Tecnologia,1838.34,36,322,Si,4.9,6584,Diciembre,Jueves,Navidad,388
+556,Tablet,Tecnologia,200.62,3,485,No,2.2,4132,Diciembre,Domingo,Campaña Escolar,208
+557,Parlante,Tecnologia,2327.4,46,178,Si,4.4,1899,Agosto,Miercoles,Fiestas Patrias,281
+558,Celular,Tecnologia,2499.92,26,444,No,1.7,4641,Abril,Martes,Navidad,232
+559,Parlante,Gaming,3158.75,35,48,Si,1.9,5191,Noviembre,Jueves,Campaña Escolar,284
+560,Smartwatch,Accesorios,2320.33,30,435,No,3.8,4588,Abril,Domingo,Normal,204
+561,Camara,Computo,956.19,8,474,No,4.8,2882,Octubre,Viernes,Campaña Escolar,194
+562,Escritorio,Computo,2506.2,20,366,Si,1.4,5360,Mayo,Viernes,Fiestas Patrias,270
+563,Teclado,Oficina,1790.94,35,90,Si,4.7,7411,Enero,Miercoles,Campaña Escolar,351
+564,Monitor,Accesorios,1626.77,0,416,No,1.5,558,Diciembre,Miercoles,Campaña Escolar,154
+565,Celular,Accesorios,3018.68,16,427,No,4.2,2574,Octubre,Sabado,Fiestas Patrias,199
+566,Tablet,Oficina,2334.71,2,346,No,3.8,9341,Febrero,Sabado,Normal,200
+567,Camara,Computo,2355.27,44,192,No,3.2,7156,Diciembre,Miercoles,Black Friday,359
+568,Impresora,Gaming,1367.59,3,411,No,1.1,8284,Enero,Domingo,Normal,126
+569,Silla Gamer,Computo,2939.71,39,87,No,3.8,1343,Febrero,Domingo,Navidad,243
+570,Monitor,Oficina,2477.55,32,442,No,3.2,2290,Abril,Jueves,Fiestas Patrias,302
+571,Parlante,Computo,1094.74,15,399,Si,1.5,1905,Junio,Viernes,Navidad,260
+572,Router,Oficina,2834.59,30,461,Si,3.5,9779,Junio,Sabado,Normal,311
+573,Mouse,Oficina,3052.52,50,322,No,4.2,3327,Enero,Lunes,Campaña Escolar,307
+574,Celular,Tecnologia,2918.25,18,188,No,1.0,4609,Julio,Martes,Campaña Escolar,216
+575,Teclado,Computo,586.6,32,122,No,1.1,189,Febrero,Sabado,Fiestas Patrias,173
+576,Mouse,Computo,2569.79,13,78,Si,1.3,3154,Noviembre,Sabado,Campaña Escolar,207
+577,Tablet,Computo,1014.44,47,498,No,3.7,6390,Diciembre,Sabado,Campaña Escolar,351
+578,Silla Gamer,Tecnologia,2751.32,6,88,Si,1.5,6408,Diciembre,Lunes,Normal,174
+579,Celular,Tecnologia,1475.8,28,257,No,5.0,5961,Marzo,Viernes,Campaña Escolar,273
+580,Laptop,Tecnologia,3431.68,25,71,No,3.1,6210,Diciembre,Miercoles,Normal,156
+581,Escritorio,Accesorios,378.86,4,421,No,2.6,2038,Agosto,Lunes,Campaña Escolar,196
+582,Mouse,Tecnologia,731.45,48,213,No,1.3,6291,Febrero,Miercoles,Fiestas Patrias,286
+583,Teclado,Oficina,1700.98,15,11,Si,2.1,6359,Marzo,Sabado,Campaña Escolar,239
+584,Camara,Gaming,287.89,28,239,No,1.3,2650,Enero,Viernes,Campaña Escolar,237
+585,Impresora,Accesorios,340.39,43,412,No,3.5,2899,Noviembre,Sabado,Campaña Escolar,286
+586,Router,Oficina,1981.54,8,490,Si,3.7,4245,Abril,Lunes,Normal,253
+587,Smartwatch,Tecnologia,888.34,1,422,No,1.7,2692,Octubre,Sabado,Black Friday,203
+588,Tablet,Computo,2064.8,33,423,Si,3.7,8525,Marzo,Martes,Fiestas Patrias,358
+589,Monitor,Gaming,2203.65,44,77,No,4.7,7354,Octubre,Viernes,Navidad,345
+590,Smartwatch,Tecnologia,1408.64,44,55,Si,1.8,8017,Noviembre,Miercoles,Campaña Escolar,330
+591,Escritorio,Oficina,767.04,37,154,Si,3.0,1868,Mayo,Sabado,Normal,240
+592,Celular,Oficina,2624.38,24,421,Si,4.4,3726,Febrero,Martes,Black Friday,308
+593,Camara,Tecnologia,1804.29,26,419,No,5.0,909,Junio,Miercoles,Campaña Escolar,267
+594,Parlante,Gaming,862.24,19,177,Si,3.6,8392,Julio,Miercoles,Navidad,359
+595,Smartwatch,Oficina,194.06,46,72,Si,2.4,5535,Febrero,Lunes,Navidad,344
+596,Laptop,Computo,237.59,49,460,No,1.9,1234,Abril,Lunes,Normal,250
+597,Camara,Computo,2361.59,17,103,No,4.8,9915,Noviembre,Sabado,Navidad,287
+598,Tablet,Oficina,1737.38,12,183,Si,2.6,919,Febrero,Sabado,Navidad,237
+599,Audifonos,Tecnologia,2605.23,26,247,Si,2.2,8735,Mayo,Lunes,Navidad,334
+600,Smartwatch,Accesorios,2053.88,24,304,Si,2.1,2962,Septiembre,Miercoles,Black Friday,275
+601,Audifonos,Oficina,3135.8,8,347,Si,4.1,2867,Diciembre,Domingo,Campaña Escolar,184
+602,Monitor,Tecnologia,2475.0,39,429,Si,3.1,5788,Julio,Lunes,Black Friday,372
+603,Audifonos,Accesorios,3278.26,27,27,Si,4.3,7879,Febrero,Lunes,Campaña Escolar,292
+604,Teclado,Oficina,719.82,21,265,No,2.6,5020,Junio,Viernes,Navidad,296
+605,Teclado,Computo,1729.01,3,485,Si,1.4,9064,Marzo,Sabado,Fiestas Patrias,285
+606,Smartwatch,Tecnologia,409.34,28,142,No,4.1,2118,Junio,Domingo,Black Friday,274
+607,Camara,Tecnologia,2618.78,2,118,Si,4.3,852,Mayo,Sabado,Navidad,190
+608,Celular,Oficina,1945.76,24,286,No,4.0,3977,Septiembre,Miercoles,Normal,229
+609,Parlante,Gaming,2766.74,45,41,No,4.2,9813,Marzo,Miercoles,Campaña Escolar,292
+610,Smartwatch,Tecnologia,964.82,15,106,Si,2.3,7022,Octubre,Sabado,Normal,269
+611,Escritorio,Gaming,1386.7,50,118,Si,3.0,711,Enero,Lunes,Normal,295
+612,Laptop,Oficina,3097.63,11,480,Si,2.8,7018,Junio,Jueves,Campaña Escolar,260
+613,Disco SSD,Tecnologia,66.11,8,294,Si,2.8,2750,Septiembre,Domingo,Black Friday,258
+614,Impresora,Accesorios,1723.03,44,410,No,4.0,646,Julio,Sabado,Fiestas Patrias,303
+615,Parlante,Tecnologia,2521.21,5,117,Si,3.1,4807,Octubre,Miercoles,Normal,137
+616,Teclado,Accesorios,1461.42,31,435,Si,4.5,4779,Septiembre,Lunes,Black Friday,369
+617,Disco SSD,Oficina,1252.86,50,429,No,1.5,7228,Mayo,Domingo,Fiestas Patrias,310
+618,Mouse,Gaming,784.05,27,161,Si,3.5,5678,Agosto,Lunes,Fiestas Patrias,294
+619,Audifonos,Gaming,1463.28,32,455,Si,4.5,2292,Mayo,Sabado,Navidad,349
+620,Celular,Computo,617.49,49,363,Si,2.6,6951,Octubre,Jueves,Campaña Escolar,399
+621,Teclado,Tecnologia,2022.42,28,441,No,4.8,5602,Julio,Lunes,Campaña Escolar,299
+622,Silla Gamer,Tecnologia,1548.05,23,291,No,3.0,5438,Junio,Lunes,Black Friday,282
+623,Mouse,Accesorios,1383.67,48,460,No,1.8,866,Septiembre,Martes,Black Friday,323
+624,Laptop,Accesorios,2362.9,2,216,Si,4.5,9409,Diciembre,Miercoles,Normal,247
+625,Disco SSD,Accesorios,54.73,27,82,No,3.1,3954,Septiembre,Jueves,Fiestas Patrias,275
+626,Escritorio,Tecnologia,727.96,43,444,Si,2.1,767,Octubre,Lunes,Navidad,324
+627,Silla Gamer,Oficina,1796.76,18,459,Si,2.6,5044,Febrero,Viernes,Navidad,295
+628,Tablet,Accesorios,2274.25,17,444,No,2.1,8435,Abril,Miercoles,Fiestas Patrias,255
+629,Disco SSD,Oficina,253.07,21,15,No,2.6,6378,Diciembre,Domingo,Fiestas Patrias,263
+630,Celular,Computo,1918.64,48,182,Si,2.8,6526,Abril,Lunes,Campaña Escolar,348
+631,Smartwatch,Gaming,2817.27,14,29,Si,5.0,684,Febrero,Martes,Normal,166
+632,Celular,Oficina,263.61,13,329,No,3.4,5676,Junio,Jueves,Normal,214
+633,Smartwatch,Accesorios,1305.8,10,131,No,2.4,6289,Agosto,Miercoles,Black Friday,239
+634,Parlante,Tecnologia,38.49,33,326,Si,1.4,5217,Febrero,Martes,Fiestas Patrias,361
+635,Monitor,Computo,251.29,7,210,No,3.3,1942,Marzo,Lunes,Campaña Escolar,145
+636,Tablet,Gaming,2377.61,16,364,No,3.7,7921,Enero,Sabado,Fiestas Patrias,266
+637,Parlante,Accesorios,2502.06,6,101,Si,1.8,8461,Enero,Jueves,Black Friday,241
+638,Mouse,Oficina,918.64,30,396,Si,2.7,9045,Febrero,Domingo,Campaña Escolar,343
+639,Laptop,Tecnologia,2987.0,21,71,No,1.6,9947,Abril,Martes,Campaña Escolar,267
+640,Impresora,Tecnologia,1364.02,39,68,Si,1.7,7454,Octubre,Viernes,Fiestas Patrias,306
+641,Laptop,Tecnologia,767.9,29,231,Si,4.6,3328,Abril,Sabado,Black Friday,375
+642,Mouse,Computo,485.1,50,355,Si,2.8,7535,Febrero,Lunes,Black Friday,453
+643,Teclado,Gaming,2790.92,37,248,No,3.5,6254,Julio,Domingo,Black Friday,285
+644,Laptop,Oficina,684.42,45,278,No,3.6,8007,Noviembre,Jueves,Campaña Escolar,328
+645,Monitor,Accesorios,239.73,14,216,Si,4.1,4983,Mayo,Miercoles,Black Friday,328
+646,Laptop,Gaming,2622.48,32,37,No,1.9,3798,Octubre,Viernes,Campaña Escolar,220
+647,Celular,Oficina,923.33,5,390,Si,4.5,5760,Septiembre,Jueves,Normal,237
+648,Audifonos,Oficina,2340.63,5,226,Si,4.6,8142,Marzo,Jueves,Campaña Escolar,264
+649,Silla Gamer,Gaming,1538.74,12,239,No,1.4,2428,Enero,Jueves,Fiestas Patrias,186
+650,Camara,Oficina,3386.08,26,285,No,4.6,1006,Junio,Viernes,Navidad,241
+651,Tablet,Computo,2623.68,31,70,Si,4.4,4510,Marzo,Lunes,Fiestas Patrias,327
+652,Laptop,Computo,1078.03,12,378,No,4.8,3014,Enero,Domingo,Black Friday,239
+653,Smartwatch,Gaming,2747.41,10,423,Si,2.3,6694,Abril,Martes,Normal,235
+654,Silla Gamer,Accesorios,2672.81,31,192,Si,4.3,1308,Mayo,Viernes,Normal,250
+655,Router,Oficina,38.6,2,217,Si,2.7,117,Junio,Domingo,Campaña Escolar,225
+656,Monitor,Gaming,1374.52,19,57,Si,3.4,6089,Junio,Domingo,Fiestas Patrias,261
+657,Escritorio,Computo,1339.36,33,192,Si,3.5,3312,Octubre,Viernes,Campaña Escolar,298
+658,Parlante,Oficina,2084.19,10,297,No,2.8,3011,Septiembre,Miercoles,Campaña Escolar,198
+659,Laptop,Tecnologia,1281.26,17,385,Si,4.8,9181,Enero,Martes,Navidad,398
+660,Laptop,Gaming,2446.03,40,191,Si,2.1,7032,Agosto,Lunes,Fiestas Patrias,315
+661,Smartwatch,Accesorios,2105.57,14,113,No,3.8,9991,Junio,Sabado,Campaña Escolar,229
+662,Laptop,Tecnologia,3321.63,49,413,Si,3.7,8616,Marzo,Viernes,Campaña Escolar,414
+663,Parlante,Gaming,616.59,14,277,No,2.8,4677,Junio,Lunes,Fiestas Patrias,234
+664,Router,Tecnologia,1719.96,29,22,Si,1.6,9046,Junio,Miercoles,Fiestas Patrias,311
+665,Teclado,Oficina,2921.6,1,301,Si,1.3,9852,Noviembre,Jueves,Fiestas Patrias,204
+666,Escritorio,Gaming,200.92,7,38,Si,2.7,5071,Diciembre,Viernes,Fiestas Patrias,262
+667,Silla Gamer,Gaming,3206.54,19,125,No,2.0,9183,Marzo,Jueves,Fiestas Patrias,209
+668,Teclado,Accesorios,3023.23,46,449,No,1.8,7432,Diciembre,Lunes,Navidad,340
+669,Parlante,Gaming,1017.09,8,428,No,1.8,1307,Enero,Martes,Navidad,217
+670,Disco SSD,Gaming,2174.09,14,104,Si,4.1,6469,Abril,Sabado,Navidad,314
+671,Disco SSD,Oficina,1229.32,11,442,Si,3.7,7003,Marzo,Miercoles,Normal,253
+672,Impresora,Computo,753.56,33,260,No,2.9,2825,Marzo,Sabado,Normal,226
+673,Celular,Tecnologia,371.4,14,494,Si,3.1,8022,Mayo,Martes,Campaña Escolar,286
+674,Impresora,Computo,2798.06,45,201,Si,2.2,911,Febrero,Sabado,Normal,223
+675,Tablet,Oficina,91.41,9,48,No,2.5,7637,Diciembre,Jueves,Campaña Escolar,222
+676,Celular,Oficina,752.56,21,13,Si,1.6,6129,Junio,Viernes,Black Friday,298
+677,Parlante,Oficina,286.15,23,392,Si,2.1,7592,Octubre,Sabado,Campaña Escolar,339
+678,Celular,Tecnologia,562.81,37,275,No,3.0,6431,Enero,Miercoles,Normal,310
+679,Audifonos,Tecnologia,1104.68,43,121,No,1.7,5512,Febrero,Miercoles,Campaña Escolar,276
+680,Teclado,Tecnologia,1086.49,41,190,No,2.7,826,Septiembre,Lunes,Fiestas Patrias,230
+681,Escritorio,Tecnologia,683.73,24,185,No,3.2,5117,Julio,Sabado,Campaña Escolar,262
+682,Teclado,Tecnologia,1112.29,38,22,Si,5.0,2490,Febrero,Miercoles,Campaña Escolar,302
+683,Tablet,Gaming,3292.66,25,228,No,3.1,894,Diciembre,Sabado,Navidad,200
+684,Silla Gamer,Computo,1701.47,18,453,Si,2.4,276,Mayo,Martes,Normal,232
+685,Tablet,Gaming,2803.02,15,448,Si,3.8,236,Septiembre,Domingo,Black Friday,237
+686,Laptop,Computo,703.54,16,238,No,3.0,1931,Enero,Jueves,Normal,185
+687,Parlante,Gaming,3046.23,3,48,Si,4.7,1745,Agosto,Martes,Normal,132
+688,Monitor,Accesorios,2994.37,29,460,No,1.9,6951,Noviembre,Miercoles,Normal,225
+689,Parlante,Tecnologia,2893.47,21,105,No,4.7,6905,Mayo,Domingo,Black Friday,233
+690,Celular,Computo,2754.04,31,108,No,4.8,748,Febrero,Sabado,Navidad,249
+691,Teclado,Computo,1194.43,30,358,No,4.2,7919,Julio,Miercoles,Campaña Escolar,315
+692,Laptop,Computo,1836.4,21,397,Si,1.0,3035,Agosto,Jueves,Fiestas Patrias,209
+693,Parlante,Computo,2778.23,19,214,Si,1.9,3029,Octubre,Lunes,Campaña Escolar,170
+694,Mouse,Computo,346.34,7,228,Si,1.2,8569,Septiembre,Jueves,Navidad,282
+695,Camara,Tecnologia,742.24,25,120,No,4.6,8152,Julio,Domingo,Navidad,336
+696,Camara,Oficina,2666.28,16,295,No,5.0,6801,Octubre,Martes,Black Friday,312
+697,Mouse,Oficina,1327.8,45,103,Si,2.9,1697,Diciembre,Lunes,Navidad,315
+698,Mouse,Oficina,2160.65,8,189,Si,3.0,6672,Marzo,Martes,Campaña Escolar,197
+699,Teclado,Tecnologia,449.43,29,426,Si,4.4,2746,Julio,Lunes,Black Friday,341
+700,Parlante,Accesorios,106.9,33,217,Si,1.9,1856,Octubre,Miercoles,Fiestas Patrias,287
+701,Mouse,Oficina,1640.58,44,471,No,4.7,8313,Septiembre,Jueves,Navidad,388
+702,Parlante,Computo,2145.48,41,199,No,1.2,7900,Septiembre,Jueves,Normal,267
+703,Mouse,Oficina,2287.27,32,425,Si,3.2,9990,Marzo,Martes,Navidad,391
+704,Disco SSD,Tecnologia,1367.88,49,111,No,1.1,241,Octubre,Domingo,Normal,207
+705,Parlante,Gaming,1520.27,7,242,No,2.1,7049,Junio,Jueves,Fiestas Patrias,226
+706,Silla Gamer,Oficina,943.93,16,15,Si,3.7,1101,Octubre,Viernes,Black Friday,254
+707,Teclado,Computo,2971.42,36,380,No,3.0,6370,Julio,Martes,Navidad,317
+708,Laptop,Oficina,3465.58,34,247,Si,1.3,4941,Junio,Sabado,Campaña Escolar,285
+709,Escritorio,Oficina,928.45,17,313,No,4.3,6653,Mayo,Miercoles,Normal,234
+710,Parlante,Computo,3251.63,43,420,Si,1.4,233,Mayo,Miercoles,Black Friday,261
+711,Parlante,Accesorios,2091.34,23,384,No,4.9,8778,Marzo,Miercoles,Black Friday,339
+712,Audifonos,Oficina,970.18,18,332,Si,2.2,5364,Octubre,Sabado,Normal,262
+713,Celular,Accesorios,2654.53,15,122,No,1.0,6355,Julio,Sabado,Black Friday,213
+714,Parlante,Tecnologia,2655.98,3,96,Si,2.2,6561,Septiembre,Domingo,Campaña Escolar,222
+715,Audifonos,Gaming,965.28,24,75,Si,1.7,7595,Julio,Martes,Navidad,330
+716,Teclado,Accesorios,2882.28,20,455,Si,2.9,2391,Abril,Domingo,Normal,217
+717,Laptop,Oficina,2393.89,45,445,No,3.9,7242,Enero,Miercoles,Campaña Escolar,347
+718,Impresora,Oficina,1216.97,46,480,Si,3.6,8771,Septiembre,Jueves,Normal,376
+719,Monitor,Computo,388.37,34,223,Si,3.1,8433,Agosto,Viernes,Black Friday,383
+720,Parlante,Oficina,1157.25,48,209,No,4.3,4718,Octubre,Viernes,Fiestas Patrias,337
+721,Teclado,Computo,2734.36,44,190,No,2.9,4588,Diciembre,Domingo,Normal,242
+722,Laptop,Oficina,2591.26,50,39,Si,4.5,6301,Enero,Martes,Navidad,349
+723,Parlante,Accesorios,379.36,25,214,No,3.3,6128,Noviembre,Martes,Campaña Escolar,242
+724,Silla Gamer,Oficina,1493.95,29,466,No,1.1,6150,Septiembre,Lunes,Normal,247
+725,Disco SSD,Accesorios,855.45,33,256,Si,1.5,7050,Noviembre,Martes,Navidad,332
+726,Monitor,Computo,808.3,46,394,No,2.0,6887,Octubre,Domingo,Fiestas Patrias,371
+727,Tablet,Oficina,3144.15,14,218,Si,1.3,2078,Junio,Jueves,Fiestas Patrias,174
+728,Celular,Computo,200.21,25,150,No,1.3,4641,Noviembre,Viernes,Navidad,269
+729,Router,Tecnologia,1697.82,5,172,No,1.9,9504,Enero,Viernes,Fiestas Patrias,229
+730,Audifonos,Tecnologia,2671.35,12,250,No,2.1,1065,Agosto,Lunes,Fiestas Patrias,130
+731,Silla Gamer,Computo,3265.29,5,206,Si,4.7,8034,Mayo,Miercoles,Fiestas Patrias,289
+732,Teclado,Gaming,3281.14,25,29,No,2.0,2668,Abril,Lunes,Navidad,164
+733,Silla Gamer,Computo,2304.31,17,397,No,3.2,4671,Noviembre,Martes,Normal,190
+734,Audifonos,Computo,852.22,14,28,Si,4.1,1053,Julio,Jueves,Black Friday,262
+735,Router,Gaming,2432.81,34,412,No,1.9,9940,Abril,Miercoles,Campaña Escolar,328
+736,Disco SSD,Computo,2855.06,16,336,Si,2.0,5234,Septiembre,Miercoles,Campaña Escolar,230
+737,Audifonos,Tecnologia,1565.52,35,150,Si,3.1,9393,Agosto,Martes,Fiestas Patrias,335
+738,Silla Gamer,Computo,1395.5,3,305,No,1.6,4877,Noviembre,Lunes,Campaña Escolar,185
+739,Monitor,Computo,3177.23,3,438,No,1.9,2334,Julio,Domingo,Fiestas Patrias,136
+740,Audifonos,Gaming,1125.58,14,180,No,2.0,3608,Mayo,Jueves,Normal,174
+741,Laptop,Gaming,787.15,7,80,No,4.7,2468,Octubre,Viernes,Normal,133
+742,Disco SSD,Accesorios,1014.23,29,467,No,2.3,5366,Septiembre,Lunes,Black Friday,291
+743,Tablet,Tecnologia,2737.75,38,69,No,2.8,7599,Marzo,Martes,Campaña Escolar,273
+744,Tablet,Gaming,1900.23,45,117,Si,2.5,2103,Agosto,Martes,Fiestas Patrias,279
+745,Smartwatch,Tecnologia,894.07,17,280,No,2.9,657,Agosto,Miercoles,Campaña Escolar,202
+746,Silla Gamer,Tecnologia,768.91,2,115,Si,1.0,7313,Enero,Jueves,Fiestas Patrias,225
+747,Smartwatch,Accesorios,3380.8,3,346,No,3.9,775,Octubre,Domingo,Campaña Escolar,131
+748,Smartwatch,Tecnologia,480.77,21,377,No,3.5,1022,Marzo,Viernes,Black Friday,286
+749,Tablet,Oficina,3466.36,2,402,Si,3.4,8840,Agosto,Jueves,Normal,176
+750,Camara,Accesorios,1079.63,8,288,No,1.3,174,Diciembre,Miercoles,Normal,94
+751,Smartwatch,Gaming,794.91,46,381,Si,3.2,3021,Abril,Lunes,Normal,315
+752,Monitor,Computo,1559.04,9,215,No,3.9,6832,Mayo,Martes,Normal,183
+753,Camara,Gaming,77.74,13,364,Si,3.4,7955,Mayo,Martes,Normal,288
+754,Audifonos,Computo,2908.93,21,182,No,2.2,3842,Agosto,Sabado,Navidad,213
+755,Tablet,Accesorios,825.53,1,341,Si,1.1,9219,Junio,Jueves,Fiestas Patrias,227
+756,Teclado,Oficina,119.71,25,153,Si,1.0,4636,Enero,Martes,Campaña Escolar,296
+757,Monitor,Tecnologia,1086.39,47,307,Si,3.4,9598,Octubre,Viernes,Campaña Escolar,393
+758,Impresora,Tecnologia,235.36,26,292,Si,3.3,1952,Julio,Sabado,Fiestas Patrias,283
+759,Router,Tecnologia,1805.88,39,389,Si,2.7,1839,Noviembre,Lunes,Normal,253
+760,Escritorio,Tecnologia,1125.09,35,478,Si,1.4,139,Julio,Jueves,Black Friday,288
+761,Camara,Computo,351.86,27,127,Si,2.3,9167,Agosto,Sabado,Campaña Escolar,308
+762,Escritorio,Tecnologia,2326.53,36,294,No,2.3,5605,Mayo,Jueves,Normal,213
+763,Router,Gaming,581.56,41,30,Si,4.2,7528,Diciembre,Martes,Black Friday,385
+764,Camara,Gaming,953.25,35,395,Si,2.6,9025,Febrero,Miercoles,Normal,333
+765,Celular,Accesorios,616.11,35,39,Si,2.6,4616,Octubre,Martes,Fiestas Patrias,286
+766,Impresora,Oficina,3416.59,35,31,No,2.3,981,Mayo,Martes,Normal,166
+767,Disco SSD,Accesorios,444.95,50,412,Si,3.6,6432,Diciembre,Jueves,Fiestas Patrias,388
+768,Laptop,Tecnologia,1918.63,49,347,No,1.2,6831,Noviembre,Lunes,Normal,289
+769,Teclado,Tecnologia,1882.33,21,451,No,1.1,5979,Septiembre,Lunes,Normal,216
+770,Silla Gamer,Accesorios,428.13,41,487,No,2.4,5358,Agosto,Miercoles,Fiestas Patrias,264
+771,Laptop,Tecnologia,2239.9,30,190,No,4.1,4332,Marzo,Domingo,Normal,190
+772,Impresora,Computo,1169.39,16,361,Si,4.4,7519,Julio,Sabado,Normal,248
+773,Parlante,Tecnologia,101.89,30,116,Si,2.1,5052,Enero,Domingo,Campaña Escolar,324
+774,Impresora,Computo,76.38,49,405,Si,1.2,7442,Agosto,Viernes,Fiestas Patrias,391
+775,Impresora,Computo,1732.97,31,330,No,3.6,5350,Marzo,Lunes,Black Friday,292
+776,Celular,Computo,3032.16,43,28,No,1.5,9059,Julio,Sabado,Black Friday,326
+777,Silla Gamer,Accesorios,2364.96,44,204,Si,2.3,2587,Febrero,Martes,Normal,268
+778,Mouse,Oficina,1146.89,40,383,No,1.9,1319,Octubre,Jueves,Navidad,275
+779,Teclado,Gaming,475.79,21,194,Si,4.4,5722,Julio,Domingo,Fiestas Patrias,275
+780,Parlante,Accesorios,459.82,25,210,No,3.5,3859,Agosto,Jueves,Normal,260
+781,Celular,Tecnologia,2950.21,38,69,Si,4.1,1459,Febrero,Miercoles,Fiestas Patrias,261
+782,Escritorio,Gaming,195.45,11,110,Si,3.3,2222,Diciembre,Viernes,Navidad,255
+783,Silla Gamer,Computo,105.9,20,403,Si,3.2,7875,Septiembre,Viernes,Navidad,362
+784,Tablet,Accesorios,3023.27,21,463,Si,3.9,7239,Agosto,Miercoles,Black Friday,324
+785,Parlante,Gaming,1848.64,15,454,Si,4.6,2826,Octubre,Lunes,Normal,253
+786,Camara,Oficina,2158.41,37,204,Si,2.0,8094,Agosto,Domingo,Campaña Escolar,307
+787,Smartwatch,Oficina,966.4,4,461,No,2.3,5924,Junio,Martes,Fiestas Patrias,220
+788,Laptop,Gaming,2556.15,15,346,No,3.7,2414,Abril,Viernes,Black Friday,229
+789,Parlante,Accesorios,1212.7,31,24,No,1.4,8922,Febrero,Jueves,Black Friday,303
+790,Mouse,Oficina,1127.55,26,381,No,3.6,6961,Agosto,Miercoles,Normal,200
+791,Escritorio,Tecnologia,2733.78,14,52,Si,1.0,7504,Febrero,Jueves,Black Friday,270
+792,Camara,Gaming,535.8,22,297,No,4.4,6444,Enero,Domingo,Normal,221
+793,Disco SSD,Gaming,2886.15,4,210,No,3.2,9776,Septiembre,Martes,Black Friday,210
+794,Impresora,Tecnologia,2132.83,26,98,No,2.6,8882,Abril,Domingo,Black Friday,313
+795,Camara,Gaming,1115.92,22,105,No,1.7,4128,Octubre,Jueves,Fiestas Patrias,214
+796,Mouse,Tecnologia,325.02,15,108,No,4.6,2036,Noviembre,Martes,Normal,194
+797,Impresora,Computo,2847.41,46,138,Si,2.6,9093,Septiembre,Viernes,Fiestas Patrias,322
+798,Laptop,Accesorios,483.57,2,197,Si,1.5,5644,Agosto,Martes,Black Friday,283
+799,Audifonos,Gaming,436.08,19,118,No,2.0,292,Abril,Martes,Normal,189
+800,Monitor,Oficina,2174.72,12,406,Si,1.1,1549,Abril,Sabado,Fiestas Patrias,201
+801,Smartwatch,Oficina,1561.76,44,351,Si,1.9,4089,Enero,Sabado,Navidad,338
+802,Smartwatch,Oficina,2057.76,27,146,Si,1.3,4356,Agosto,Sabado,Navidad,250
+803,Celular,Tecnologia,2916.81,50,277,No,2.9,6632,Septiembre,Sabado,Normal,292
+804,Parlante,Gaming,2873.83,37,107,Si,3.0,9713,Agosto,Viernes,Campaña Escolar,300
+805,Escritorio,Accesorios,1409.1,37,378,No,3.5,5746,Febrero,Jueves,Navidad,325
+806,Camara,Oficina,492.2,46,385,No,1.3,6552,Julio,Viernes,Campaña Escolar,330
+807,Tablet,Computo,1642.31,24,405,Si,3.8,8156,Mayo,Jueves,Campaña Escolar,328
+808,Tablet,Gaming,2568.71,15,386,No,4.9,8622,Diciembre,Sabado,Navidad,309
+809,Parlante,Gaming,2463.33,3,84,Si,4.7,8607,Junio,Sabado,Navidad,256
+810,Monitor,Accesorios,1935.64,44,288,No,2.3,796,Octubre,Sabado,Fiestas Patrias,216
+811,Disco SSD,Accesorios,3393.24,25,418,No,1.2,7058,Diciembre,Sabado,Campaña Escolar,208
+812,Escritorio,Tecnologia,2310.2,16,460,No,2.8,2597,Junio,Viernes,Black Friday,237
+813,Silla Gamer,Gaming,1414.45,14,119,Si,4.5,996,Mayo,Domingo,Black Friday,237
+814,Camara,Tecnologia,1401.38,22,226,Si,4.8,1242,Enero,Jueves,Campaña Escolar,297
+815,Silla Gamer,Tecnologia,648.2,6,390,No,1.4,6156,Abril,Miercoles,Campaña Escolar,200
+816,Silla Gamer,Computo,1383.26,33,13,No,3.9,8743,Marzo,Domingo,Normal,262
+817,Monitor,Gaming,223.81,0,80,Si,3.4,4436,Enero,Miercoles,Black Friday,250
+818,Router,Gaming,1048.23,42,292,No,3.4,5325,Abril,Sabado,Navidad,320
+819,Monitor,Gaming,1051.21,15,364,No,1.6,7404,Diciembre,Miercoles,Normal,248
+820,Tablet,Oficina,1842.35,45,483,Si,2.9,3765,Noviembre,Miercoles,Navidad,324
+821,Laptop,Computo,718.68,21,212,Si,4.2,6461,Abril,Viernes,Black Friday,350
+822,Disco SSD,Computo,984.2,6,262,Si,1.5,491,Octubre,Viernes,Navidad,218
+823,Smartwatch,Accesorios,3457.37,25,246,Si,2.6,7261,Mayo,Jueves,Campaña Escolar,267
+824,Teclado,Accesorios,1816.67,30,263,No,4.7,7978,Diciembre,Viernes,Normal,266
+825,Laptop,Oficina,3134.83,9,238,Si,4.1,911,Mayo,Viernes,Fiestas Patrias,176
+826,Teclado,Gaming,1550.7,38,382,No,1.5,8515,Mayo,Lunes,Fiestas Patrias,304
+827,Escritorio,Accesorios,2106.12,42,219,Si,2.5,5590,Enero,Martes,Fiestas Patrias,312
+828,Smartwatch,Gaming,713.95,3,378,No,3.0,6153,Noviembre,Miercoles,Black Friday,231
+829,Mouse,Computo,1950.31,43,392,Si,3.5,3146,Septiembre,Martes,Campaña Escolar,310
+830,Smartwatch,Gaming,880.95,30,407,No,1.7,8465,Marzo,Jueves,Navidad,325
+831,Mouse,Computo,787.3,48,274,No,1.1,6609,Abril,Martes,Fiestas Patrias,327
+832,Impresora,Computo,1006.11,9,260,No,3.7,3904,Abril,Domingo,Navidad,246
+833,Camara,Tecnologia,2196.15,46,396,No,1.7,2445,Febrero,Sabado,Fiestas Patrias,276
+834,Monitor,Gaming,1360.16,37,86,No,4.8,3188,Octubre,Martes,Normal,210
+835,Tablet,Tecnologia,1352.09,19,184,No,3.0,606,Julio,Miercoles,Navidad,229
+836,Laptop,Gaming,3481.15,8,325,No,2.0,1066,Junio,Viernes,Navidad,209
+837,Celular,Tecnologia,3213.05,6,111,No,4.3,1863,Mayo,Sabado,Campaña Escolar,184
+838,Camara,Tecnologia,178.64,42,217,Si,4.4,3049,Febrero,Martes,Navidad,371
+839,Silla Gamer,Tecnologia,1591.45,49,21,No,4.9,9965,Abril,Sabado,Campaña Escolar,355
+840,Parlante,Tecnologia,875.55,22,180,Si,3.8,9692,Abril,Viernes,Black Friday,345
+841,Escritorio,Accesorios,183.47,12,52,Si,3.2,1392,Enero,Jueves,Fiestas Patrias,245
+842,Mouse,Tecnologia,1449.55,46,146,Si,2.7,7285,Enero,Martes,Fiestas Patrias,378
+843,Router,Accesorios,636.25,33,332,No,4.9,9783,Mayo,Jueves,Black Friday,368
+844,Silla Gamer,Oficina,1388.15,12,206,No,1.4,1191,Julio,Miercoles,Normal,154
+845,Silla Gamer,Tecnologia,2169.0,17,75,Si,3.4,4320,Septiembre,Lunes,Navidad,240
+846,Smartwatch,Gaming,2742.84,34,496,No,2.0,6943,Enero,Sabado,Normal,227
+847,Disco SSD,Gaming,3366.42,44,437,Si,3.0,4708,Febrero,Miercoles,Fiestas Patrias,330
+848,Audifonos,Oficina,78.03,18,347,No,4.2,6029,Julio,Jueves,Normal,283
+849,Teclado,Gaming,2565.84,32,412,No,3.1,3247,Abril,Martes,Black Friday,281
+850,Silla Gamer,Accesorios,507.16,34,177,Si,3.2,1416,Mayo,Sabado,Fiestas Patrias,275
+851,Camara,Gaming,1998.56,21,25,Si,3.5,4589,Marzo,Lunes,Normal,231
+852,Router,Gaming,1530.5,20,418,Si,2.6,4808,Julio,Viernes,Navidad,332
+853,Audifonos,Accesorios,1073.85,22,436,Si,3.8,1425,Diciembre,Sabado,Fiestas Patrias,294
+854,Tablet,Gaming,2023.07,32,414,Si,2.9,5064,Marzo,Martes,Campaña Escolar,268
+855,Router,Computo,1116.24,43,475,Si,1.3,4580,Abril,Lunes,Campaña Escolar,352
+856,Parlante,Gaming,1982.35,5,356,Si,3.8,2206,Agosto,Sabado,Navidad,224
+857,Audifonos,Tecnologia,1455.16,20,99,No,3.1,6822,Mayo,Lunes,Campaña Escolar,244
+858,Impresora,Computo,655.97,49,306,Si,3.0,2346,Marzo,Sabado,Campaña Escolar,323
+859,Audifonos,Gaming,864.17,5,438,No,2.3,2931,Febrero,Martes,Fiestas Patrias,179
+860,Celular,Computo,2197.37,48,381,Si,2.6,1108,Octubre,Sabado,Fiestas Patrias,298
+861,Router,Gaming,3140.08,35,162,No,1.1,4653,Junio,Domingo,Fiestas Patrias,225
+862,Teclado,Tecnologia,1119.95,28,412,No,4.2,7242,Junio,Martes,Campaña Escolar,286
+863,Audifonos,Computo,2629.51,50,338,No,3.3,4626,Marzo,Sabado,Fiestas Patrias,285
+864,Celular,Oficina,879.06,33,354,No,3.2,7863,Junio,Domingo,Fiestas Patrias,305
+865,Camara,Tecnologia,2071.99,5,361,Si,4.3,1564,Marzo,Sabado,Navidad,204
+866,Parlante,Computo,1005.83,8,488,No,1.1,1241,Marzo,Viernes,Campaña Escolar,174
+867,Escritorio,Tecnologia,2347.69,8,163,Si,4.7,321,Diciembre,Lunes,Normal,176
+868,Parlante,Gaming,2480.41,4,285,Si,4.2,672,Octubre,Jueves,Navidad,171
+869,Disco SSD,Tecnologia,2383.15,12,269,No,5.0,5264,Septiembre,Miercoles,Navidad,255
+870,Silla Gamer,Accesorios,1132.71,8,487,No,2.0,5780,Junio,Jueves,Campaña Escolar,206
+871,Teclado,Oficina,3163.22,41,406,No,1.8,3389,Septiembre,Viernes,Normal,233
+872,Impresora,Gaming,160.21,6,139,Si,3.7,621,Enero,Sabado,Campaña Escolar,202
+873,Smartwatch,Gaming,749.72,39,329,Si,3.6,1224,Marzo,Jueves,Campaña Escolar,270
+874,Router,Gaming,3104.28,30,98,No,1.6,9029,Noviembre,Domingo,Campaña Escolar,220
+875,Impresora,Tecnologia,1389.57,16,139,Si,4.9,781,Abril,Domingo,Black Friday,263
+876,Mouse,Computo,1106.42,17,84,Si,3.6,9457,Junio,Martes,Normal,249
+877,Camara,Computo,2233.52,21,324,Si,1.0,943,Julio,Jueves,Black Friday,251
+878,Laptop,Computo,3184.2,3,24,No,4.0,6376,Febrero,Sabado,Navidad,183
+879,Parlante,Computo,518.2,18,367,Si,3.6,1217,Octubre,Viernes,Navidad,260
+880,Tablet,Oficina,884.92,27,89,No,4.2,1627,Junio,Viernes,Normal,199
+881,Tablet,Accesorios,1919.81,44,470,No,4.5,6741,Septiembre,Jueves,Fiestas Patrias,350
+882,Celular,Oficina,3308.68,28,135,Si,2.3,7087,Octubre,Lunes,Navidad,274
+883,Celular,Accesorios,1105.98,2,84,No,4.4,6271,Abril,Lunes,Navidad,215
+884,Monitor,Accesorios,2395.63,38,231,Si,4.8,6372,Marzo,Martes,Fiestas Patrias,332
+885,Silla Gamer,Accesorios,3311.21,31,223,Si,4.4,9886,Julio,Domingo,Fiestas Patrias,354
+886,Celular,Oficina,2378.48,3,44,Si,4.5,3879,Agosto,Martes,Navidad,242
+887,Silla Gamer,Oficina,1088.87,6,292,Si,4.8,513,Enero,Martes,Normal,183
+888,Router,Gaming,605.61,10,307,Si,3.2,8931,Marzo,Martes,Navidad,348
+889,Disco SSD,Gaming,1418.24,36,498,No,2.2,2306,Marzo,Lunes,Campaña Escolar,284
+890,Disco SSD,Accesorios,2906.88,46,455,Si,2.6,7487,Septiembre,Jueves,Navidad,371
+891,Disco SSD,Computo,2355.13,30,104,No,4.5,6019,Febrero,Martes,Black Friday,312
+892,Parlante,Oficina,184.24,5,36,Si,3.7,6997,Marzo,Martes,Black Friday,290
+893,Smartwatch,Gaming,831.09,14,396,No,3.5,5118,Marzo,Viernes,Navidad,290
+894,Teclado,Computo,1388.06,31,265,Si,1.0,6974,Agosto,Viernes,Navidad,308
+895,Monitor,Oficina,3415.71,14,245,Si,3.1,7315,Julio,Martes,Normal,220
+896,Monitor,Gaming,135.77,24,47,Si,1.3,4485,Septiembre,Sabado,Black Friday,269
+897,Router,Tecnologia,1489.23,21,300,Si,4.6,6499,Marzo,Jueves,Navidad,310
+898,Disco SSD,Gaming,1613.94,1,141,Si,3.1,1555,Septiembre,Domingo,Normal,188
+899,Celular,Accesorios,2617.34,16,496,No,4.4,7286,Octubre,Viernes,Normal,233
+900,Camara,Oficina,210.47,39,210,No,2.7,6003,Junio,Domingo,Normal,291
+901,Monitor,Oficina,20.79,35,351,Si,4.4,7495,Julio,Miercoles,Navidad,410
+902,Tablet,Accesorios,2570.35,32,27,Si,3.9,6290,Mayo,Jueves,Campaña Escolar,300
+903,Audifonos,Gaming,2475.36,3,269,Si,2.0,7500,Septiembre,Jueves,Fiestas Patrias,260
+904,Laptop,Tecnologia,2521.14,40,448,Si,1.1,2415,Octubre,Viernes,Normal,219
+905,Tablet,Accesorios,829.89,22,379,No,1.8,9321,Diciembre,Domingo,Fiestas Patrias,280
+906,Impresora,Tecnologia,1593.66,48,238,No,3.7,4334,Marzo,Jueves,Navidad,330
+907,Audifonos,Gaming,1790.95,14,155,No,4.5,548,Julio,Viernes,Fiestas Patrias,182
+908,Silla Gamer,Oficina,151.19,6,257,No,2.3,7992,Abril,Jueves,Navidad,256
+909,Teclado,Computo,2645.9,21,202,No,4.5,8293,Septiembre,Viernes,Black Friday,289
+910,Audifonos,Gaming,1880.62,8,260,Si,2.3,7515,Junio,Domingo,Black Friday,299
+911,Parlante,Tecnologia,836.95,50,207,Si,2.3,6153,Diciembre,Martes,Black Friday,362
+912,Mouse,Accesorios,1509.98,34,71,Si,2.5,3655,Septiembre,Jueves,Fiestas Patrias,278
+913,Teclado,Oficina,3421.69,28,434,Si,3.1,6130,Noviembre,Lunes,Normal,240
+914,Celular,Gaming,1135.0,24,216,No,4.1,1351,Julio,Lunes,Normal,174
+915,Monitor,Computo,2518.41,18,66,No,1.3,8020,Febrero,Viernes,Normal,184
+916,Disco SSD,Oficina,2587.82,15,388,No,4.4,6731,Octubre,Sabado,Navidad,245
+917,Escritorio,Gaming,1801.0,0,109,No,4.7,584,Enero,Domingo,Campaña Escolar,141
+918,Celular,Tecnologia,1772.91,33,311,No,4.8,5375,Abril,Domingo,Navidad,317
+919,Monitor,Tecnologia,1915.05,6,105,Si,3.8,9275,Octubre,Viernes,Navidad,286
+920,Router,Accesorios,2907.78,21,297,Si,2.6,8370,Noviembre,Lunes,Fiestas Patrias,260
+921,Silla Gamer,Tecnologia,562.09,5,220,No,2.5,5448,Marzo,Lunes,Fiestas Patrias,229
+922,Impresora,Oficina,2988.18,26,194,Si,3.8,1640,Julio,Viernes,Campaña Escolar,251
+923,Escritorio,Tecnologia,2905.44,15,96,No,3.5,3841,Febrero,Viernes,Fiestas Patrias,172
+924,Impresora,Computo,2204.29,22,422,No,1.6,2778,Abril,Viernes,Campaña Escolar,228
+925,Disco SSD,Oficina,3213.41,2,323,Si,3.5,3164,Octubre,Lunes,Fiestas Patrias,190
+926,Tablet,Gaming,1111.69,31,15,No,2.4,2680,Febrero,Viernes,Normal,182
+927,Impresora,Tecnologia,2890.33,29,237,No,3.2,7149,Septiembre,Miercoles,Navidad,276
+928,Escritorio,Oficina,846.44,41,316,Si,3.6,4201,Julio,Viernes,Black Friday,361
+929,Smartwatch,Computo,2061.06,31,24,Si,4.0,333,Agosto,Sabado,Black Friday,264
+930,Celular,Tecnologia,2807.27,1,136,Si,1.4,7416,Mayo,Lunes,Black Friday,206
+931,Silla Gamer,Accesorios,1457.61,24,224,Si,2.6,1042,Junio,Jueves,Fiestas Patrias,246
+932,Escritorio,Computo,1274.17,37,50,No,1.3,4754,Abril,Miercoles,Normal,232
+933,Silla Gamer,Computo,332.36,36,322,No,1.0,938,Febrero,Viernes,Campaña Escolar,250
+934,Impresora,Computo,1213.08,16,126,Si,3.3,9359,Abril,Viernes,Fiestas Patrias,292
+935,Escritorio,Accesorios,736.16,10,350,Si,3.2,974,Agosto,Sabado,Campaña Escolar,255
+936,Escritorio,Accesorios,700.19,47,221,Si,4.7,1602,Mayo,Martes,Campaña Escolar,376
+937,Parlante,Accesorios,1314.85,48,166,Si,2.4,7555,Octubre,Miercoles,Campaña Escolar,407
+938,Mouse,Tecnologia,2034.8,43,274,Si,2.3,204,Noviembre,Sabado,Black Friday,300
+939,Smartwatch,Gaming,1638.33,36,256,No,4.0,9419,Enero,Domingo,Black Friday,366
+940,Router,Computo,1568.09,2,459,No,4.7,836,Agosto,Viernes,Fiestas Patrias,182
+941,Teclado,Gaming,1999.97,32,85,Si,4.2,8884,Mayo,Jueves,Campaña Escolar,351
+942,Laptop,Gaming,1284.13,35,382,Si,3.4,9311,Julio,Jueves,Navidad,387
+943,Camara,Computo,2600.86,15,417,No,4.4,9394,Julio,Domingo,Campaña Escolar,272
+944,Mouse,Gaming,2364.67,7,166,Si,2.9,6081,Agosto,Miercoles,Normal,189
+945,Silla Gamer,Accesorios,1691.42,6,242,No,1.9,2763,Julio,Viernes,Normal,123
+946,Impresora,Gaming,2625.16,44,221,No,1.9,5605,Mayo,Martes,Navidad,275
+947,Monitor,Computo,1869.12,25,468,No,3.5,5730,Agosto,Viernes,Fiestas Patrias,275
+948,Teclado,Oficina,2481.33,23,391,No,2.8,7117,Julio,Martes,Black Friday,310
+949,Impresora,Oficina,1512.1,39,75,Si,1.1,6280,Mayo,Jueves,Campaña Escolar,310
+950,Router,Accesorios,2940.07,1,93,Si,4.4,6751,Febrero,Sabado,Fiestas Patrias,199
+951,Camara,Oficina,2108.87,11,305,Si,4.1,8319,Julio,Martes,Campaña Escolar,247
+952,Celular,Tecnologia,2276.66,5,470,Si,4.6,327,Marzo,Jueves,Black Friday,258
+953,Disco SSD,Gaming,396.38,29,382,No,2.6,5240,Septiembre,Sabado,Fiestas Patrias,328
+954,Audifonos,Computo,740.34,42,366,Si,4.1,8684,Septiembre,Domingo,Navidad,444
+955,Tablet,Tecnologia,2387.74,14,201,Si,4.3,584,Diciembre,Martes,Normal,172
+956,Parlante,Computo,509.1,5,26,No,3.1,1222,Agosto,Domingo,Normal,135
+957,Escritorio,Computo,2931.13,37,337,No,4.7,2990,Mayo,Miercoles,Fiestas Patrias,274
+958,Impresora,Tecnologia,2522.97,11,303,Si,3.1,3359,Julio,Lunes,Fiestas Patrias,222
+959,Router,Gaming,1872.14,9,131,Si,1.4,9204,Noviembre,Sabado,Navidad,282
+960,Smartwatch,Computo,1984.17,3,435,No,1.7,5254,Junio,Miercoles,Navidad,174
+961,Smartwatch,Oficina,2167.84,3,347,No,3.9,691,Febrero,Jueves,Navidad,186
+962,Celular,Accesorios,659.57,50,276,No,3.5,6845,Marzo,Sabado,Fiestas Patrias,338
+963,Silla Gamer,Gaming,1724.45,7,259,Si,2.3,789,Octubre,Jueves,Normal,169
+964,Teclado,Computo,666.5,28,371,No,2.7,5695,Abril,Miercoles,Fiestas Patrias,273
+965,Escritorio,Computo,2998.88,49,478,No,4.2,2333,Octubre,Sabado,Black Friday,332
+966,Disco SSD,Oficina,3230.81,6,402,No,2.3,5463,Junio,Sabado,Navidad,202
+967,Tablet,Accesorios,147.76,43,95,Si,2.3,9711,Marzo,Domingo,Normal,349
+968,Escritorio,Accesorios,2597.51,23,60,Si,1.3,8134,Noviembre,Miercoles,Normal,227
+969,Teclado,Oficina,1822.68,20,66,No,1.9,2057,Febrero,Lunes,Normal,177
+970,Camara,Tecnologia,2630.53,31,469,Si,2.0,2380,Enero,Domingo,Black Friday,292
+971,Mouse,Computo,908.63,41,41,No,4.9,8266,Octubre,Martes,Normal,327
+972,Audifonos,Accesorios,933.18,32,238,No,1.2,3924,Abril,Sabado,Fiestas Patrias,242
+973,Silla Gamer,Accesorios,3015.58,17,119,Si,2.4,6777,Marzo,Viernes,Campaña Escolar,233
+974,Laptop,Computo,366.24,48,148,No,4.5,3285,Junio,Domingo,Black Friday,328
+975,Parlante,Gaming,1817.86,12,305,Si,3.1,6403,Mayo,Viernes,Black Friday,274
+976,Escritorio,Gaming,2657.06,15,330,No,1.4,595,Marzo,Viernes,Navidad,117
+977,Silla Gamer,Gaming,215.66,7,27,No,4.7,54,Julio,Viernes,Navidad,173
+978,Disco SSD,Computo,1813.26,11,395,Si,1.1,4813,Agosto,Viernes,Campaña Escolar,217
+979,Celular,Computo,1874.24,36,479,Si,3.8,5142,Junio,Jueves,Fiestas Patrias,356
+980,Audifonos,Tecnologia,1223.59,22,433,No,4.0,8570,Enero,Viernes,Campaña Escolar,296
+981,Audifonos,Oficina,1434.33,36,406,No,3.6,2942,Septiembre,Lunes,Black Friday,288
+982,Audifonos,Tecnologia,2960.5,6,49,Si,2.6,8496,Julio,Domingo,Fiestas Patrias,208
+983,Smartwatch,Tecnologia,2196.66,35,350,No,2.5,6204,Septiembre,Miercoles,Campaña Escolar,281
+984,Disco SSD,Gaming,3484.38,20,246,Si,1.6,4364,Julio,Jueves,Campaña Escolar,220
+985,Escritorio,Oficina,2968.5,12,160,Si,4.8,1039,Julio,Martes,Fiestas Patrias,194
+986,Tablet,Accesorios,1987.65,41,418,No,1.0,4502,Septiembre,Domingo,Navidad,321
+987,Audifonos,Gaming,1070.3,32,229,Si,3.0,3958,Mayo,Jueves,Campaña Escolar,288
+988,Teclado,Accesorios,2906.89,4,491,No,4.7,1918,Mayo,Lunes,Black Friday,227
+989,Audifonos,Gaming,1569.55,44,377,Si,4.3,7292,Agosto,Martes,Fiestas Patrias,375
+990,Teclado,Tecnologia,1175.96,40,209,Si,4.7,6500,Septiembre,Lunes,Campaña Escolar,356
+991,Audifonos,Computo,732.71,14,175,Si,2.2,8462,Marzo,Sabado,Black Friday,290
+992,Monitor,Tecnologia,1079.63,3,360,Si,3.6,8217,Marzo,Lunes,Black Friday,298
+993,Impresora,Oficina,1199.07,22,469,No,2.0,4246,Mayo,Domingo,Black Friday,298
+994,Celular,Tecnologia,648.69,34,72,Si,3.6,8467,Junio,Lunes,Campaña Escolar,338
+995,Audifonos,Oficina,2651.55,3,358,Si,3.4,4574,Febrero,Viernes,Black Friday,235
+996,Monitor,Computo,3236.6,4,363,Si,2.9,7384,Julio,Domingo,Normal,188
+997,Smartwatch,Accesorios,2329.82,16,377,Si,4.8,5001,Julio,Domingo,Black Friday,327
+998,Escritorio,Tecnologia,548.07,48,455,Si,3.7,1223,Abril,Jueves,Normal,317
+999,Celular,Oficina,289.64,8,333,Si,3.0,9139,Noviembre,Miercoles,Fiestas Patrias,309
+1000,Silla Gamer,Tecnologia,2631.15,47,60,Si,3.1,4072,Diciembre,Viernes,Navidad,348
+1001,Audifonos,Oficina,3186.56,25,89,No,3.1,5630,Noviembre,Miercoles,Campaña Escolar,212
+1002,Disco SSD,Tecnologia,1673.38,43,423,Si,4.9,7047,Noviembre,Martes,Normal,373
+1003,Silla Gamer,Oficina,3025.47,49,133,No,1.3,1384,Junio,Lunes,Campaña Escolar,213
+1004,Router,Tecnologia,571.4,19,216,Si,4.3,214,Julio,Domingo,Campaña Escolar,250
+1005,Laptop,Gaming,1417.91,16,46,Si,4.4,8655,Diciembre,Jueves,Navidad,295
+1006,Impresora,Tecnologia,1805.9,19,317,Si,4.9,7517,Abril,Martes,Black Friday,353
+1007,Silla Gamer,Gaming,811.64,43,126,Si,2.3,8787,Junio,Domingo,Normal,292
+1008,Impresora,Accesorios,202.64,9,19,Si,3.8,1517,Diciembre,Viernes,Normal,179
+1009,Celular,Accesorios,2475.54,20,401,No,1.5,930,Junio,Viernes,Fiestas Patrias,162
+1010,Escritorio,Accesorios,156.98,8,154,No,4.1,3695,Enero,Sabado,Black Friday,236
+1011,Escritorio,Accesorios,1647.67,39,175,No,2.8,3605,Mayo,Lunes,Black Friday,271
+1012,Camara,Computo,2141.08,28,52,Si,3.1,5547,Septiembre,Sabado,Black Friday,307
+1013,Router,Accesorios,893.04,30,271,No,4.6,4075,Septiembre,Miercoles,Fiestas Patrias,294
+1014,Audifonos,Gaming,219.18,45,480,Si,1.2,743,Septiembre,Martes,Normal,282
+1015,Celular,Computo,3118.73,4,129,No,2.9,5774,Mayo,Viernes,Fiestas Patrias,181
+1016,Laptop,Gaming,2064.94,41,286,Si,2.6,601,Julio,Sabado,Campaña Escolar,284
+1017,Router,Computo,557.73,44,495,Si,1.3,6149,Octubre,Martes,Fiestas Patrias,349
+1018,Silla Gamer,Gaming,1075.2,47,480,No,2.6,8614,Julio,Martes,Navidad,377
+1019,Smartwatch,Gaming,2006.57,22,210,No,1.0,6404,Marzo,Viernes,Fiestas Patrias,240
+1020,Tablet,Computo,2143.48,19,338,Si,1.1,8499,Febrero,Lunes,Navidad,340
+1021,Laptop,Accesorios,1585.8,35,28,Si,3.9,5635,Marzo,Domingo,Normal,283
+1022,Mouse,Oficina,1875.97,35,433,No,1.7,6167,Abril,Lunes,Normal,217
+1023,Silla Gamer,Oficina,469.7,29,213,No,4.4,2042,Septiembre,Viernes,Navidad,267
+1024,Laptop,Computo,1048.07,41,66,Si,3.7,8770,Abril,Viernes,Normal,326
+1025,Disco SSD,Accesorios,2984.42,10,108,No,1.1,4786,Noviembre,Jueves,Normal,111
+1026,Smartwatch,Tecnologia,2740.59,23,197,No,4.2,1799,Junio,Viernes,Black Friday,194
+1027,Smartwatch,Tecnologia,2792.32,44,85,Si,3.8,2822,Octubre,Miercoles,Navidad,307
+1028,Escritorio,Tecnologia,927.76,31,455,Si,1.7,7244,Mayo,Lunes,Campaña Escolar,299
+1029,Mouse,Accesorios,2480.21,38,442,Si,3.3,9849,Septiembre,Jueves,Campaña Escolar,397
+1030,Camara,Accesorios,1314.71,17,47,No,2.0,2490,Octubre,Sabado,Campaña Escolar,189
+1031,Escritorio,Tecnologia,3037.37,45,209,No,4.9,2644,Noviembre,Viernes,Fiestas Patrias,285
+1032,Escritorio,Oficina,2421.63,38,477,No,2.3,3533,Febrero,Martes,Campaña Escolar,318
+1033,Camara,Computo,1137.07,42,215,No,3.8,4961,Noviembre,Martes,Navidad,320
+1034,Disco SSD,Computo,1250.09,30,149,No,4.8,5789,Junio,Viernes,Fiestas Patrias,274
+1035,Tablet,Oficina,689.06,37,389,Si,4.9,6656,Diciembre,Miercoles,Navidad,400
+1036,Router,Gaming,860.77,40,488,No,4.4,2092,Abril,Jueves,Navidad,322
+1037,Impresora,Oficina,328.25,33,207,Si,3.0,3300,Agosto,Jueves,Normal,282
+1038,Audifonos,Gaming,125.63,49,366,No,2.8,6132,Enero,Viernes,Campaña Escolar,336
+1039,Laptop,Computo,3283.63,21,83,Si,1.5,558,Abril,Martes,Fiestas Patrias,164
+1040,Smartwatch,Computo,2178.42,1,13,Si,1.4,6793,Septiembre,Viernes,Navidad,195
+1041,Mouse,Tecnologia,850.86,5,220,Si,2.6,3607,Agosto,Miercoles,Campaña Escolar,207
+1042,Audifonos,Computo,256.77,34,488,No,2.1,3445,Octubre,Martes,Campaña Escolar,295
+1043,Smartwatch,Computo,2618.18,12,164,Si,3.6,5410,Febrero,Viernes,Black Friday,272
+1044,Escritorio,Tecnologia,54.2,1,317,Si,1.7,2631,Diciembre,Miercoles,Black Friday,239
+1045,Celular,Gaming,1078.25,2,236,Si,4.3,2493,Febrero,Viernes,Fiestas Patrias,239
+1046,Escritorio,Gaming,3456.04,40,322,No,3.6,7485,Julio,Lunes,Normal,287
+1047,Impresora,Oficina,1869.55,9,362,Si,2.6,4007,Julio,Domingo,Normal,171
+1048,Escritorio,Gaming,1671.03,4,227,Si,3.3,2936,Enero,Sabado,Black Friday,251
+1049,Audifonos,Gaming,626.07,9,371,Si,3.9,7796,Enero,Miercoles,Navidad,285
+1050,Impresora,Gaming,652.54,31,29,Si,2.3,6115,Diciembre,Martes,Campaña Escolar,293
+1051,Silla Gamer,Oficina,1572.67,11,208,Si,2.2,5726,Agosto,Domingo,Navidad,273
+1052,Monitor,Oficina,389.62,5,175,Si,4.2,1925,Mayo,Domingo,Black Friday,271
+1053,Teclado,Computo,416.6,48,358,Si,3.0,8290,Febrero,Jueves,Navidad,408
+1054,Camara,Oficina,1859.9,38,283,No,3.6,7695,Mayo,Lunes,Black Friday,385
+1055,Smartwatch,Accesorios,1757.17,9,88,Si,1.5,2785,Marzo,Jueves,Navidad,215
+1056,Celular,Oficina,1720.13,1,359,Si,3.7,3585,Noviembre,Viernes,Campaña Escolar,200
+1057,Monitor,Tecnologia,391.36,27,190,No,1.5,2757,Mayo,Domingo,Black Friday,246
+1058,Silla Gamer,Gaming,411.14,26,419,No,2.0,9824,Febrero,Lunes,Black Friday,355
+1059,Impresora,Computo,924.97,37,462,Si,4.8,6931,Abril,Miercoles,Fiestas Patrias,377
+1060,Smartwatch,Computo,1784.36,18,402,No,4.7,4782,Marzo,Miercoles,Navidad,285
+1061,Router,Accesorios,613.69,38,269,Si,2.9,6257,Agosto,Lunes,Campaña Escolar,372
+1062,Silla Gamer,Computo,3493.74,10,420,Si,1.9,7768,Marzo,Domingo,Normal,240
+1063,Escritorio,Tecnologia,3411.05,45,75,No,1.3,4092,Abril,Viernes,Campaña Escolar,241
+1064,Laptop,Computo,1809.51,34,168,No,2.0,2994,Diciembre,Domingo,Normal,208
+1065,Celular,Oficina,3193.13,37,93,Si,1.2,1124,Enero,Miercoles,Campaña Escolar,239
+1066,Monitor,Gaming,3006.99,33,197,No,4.1,3235,Septiembre,Domingo,Fiestas Patrias,243
+1067,Router,Accesorios,1104.55,20,58,No,2.4,3105,Diciembre,Sabado,Normal,166
+1068,Router,Gaming,1256.39,20,355,Si,3.9,2333,Enero,Miercoles,Campaña Escolar,218
+1069,Audifonos,Accesorios,218.69,4,263,Si,3.7,6849,Diciembre,Viernes,Fiestas Patrias,280
+1070,Celular,Tecnologia,3046.54,30,22,No,2.8,198,Febrero,Jueves,Fiestas Patrias,161
+1071,Parlante,Tecnologia,3045.35,26,175,Si,3.0,8236,Enero,Miercoles,Black Friday,306
+1072,Tablet,Gaming,2357.38,37,30,No,2.0,2032,Diciembre,Lunes,Fiestas Patrias,169
+1073,Parlante,Gaming,106.94,19,273,Si,4.4,9763,Septiembre,Lunes,Campaña Escolar,361
+1074,Camara,Oficina,337.91,25,403,Si,3.3,7809,Septiembre,Sabado,Normal,275
+1075,Monitor,Gaming,3046.27,44,383,No,2.6,888,Mayo,Miercoles,Black Friday,293
+1076,Escritorio,Accesorios,80.89,27,441,No,3.3,4518,Enero,Miercoles,Fiestas Patrias,296
+1077,Silla Gamer,Computo,1157.05,8,258,Si,3.4,4361,Abril,Viernes,Fiestas Patrias,245
+1078,Silla Gamer,Computo,926.2,27,229,No,3.9,9486,Julio,Domingo,Normal,296
+1079,Monitor,Accesorios,2369.8,6,51,Si,2.4,332,Junio,Jueves,Campaña Escolar,129
+1080,Escritorio,Oficina,2662.15,26,138,Si,1.3,997,Septiembre,Sabado,Navidad,246
+1081,Tablet,Accesorios,1214.69,2,15,No,3.3,614,Octubre,Martes,Black Friday,181
+1082,Disco SSD,Gaming,2923.91,11,159,Si,4.0,4681,Junio,Jueves,Navidad,268
+1083,Monitor,Accesorios,1015.75,0,458,Si,2.3,6066,Octubre,Viernes,Campaña Escolar,258
+1084,Audifonos,Gaming,2715.51,23,479,Si,3.5,8139,Marzo,Jueves,Campaña Escolar,299
+1085,Impresora,Tecnologia,1702.84,23,467,Si,4.0,6733,Septiembre,Viernes,Normal,278
+1086,Impresora,Accesorios,2642.95,50,447,No,4.6,1344,Diciembre,Lunes,Fiestas Patrias,278
+1087,Tablet,Computo,2398.33,10,202,Si,4.0,1653,Agosto,Sabado,Fiestas Patrias,163
+1088,Smartwatch,Accesorios,3444.63,17,491,Si,2.2,3837,Febrero,Martes,Campaña Escolar,207
+1089,Smartwatch,Gaming,944.59,25,170,Si,1.4,7219,Octubre,Miercoles,Navidad,312
+1090,Router,Accesorios,3311.09,27,342,No,2.2,6249,Abril,Sabado,Normal,219
+1091,Mouse,Oficina,267.21,29,319,No,2.3,4584,Marzo,Viernes,Navidad,289
+1092,Escritorio,Computo,2788.61,50,31,No,2.8,1182,Marzo,Domingo,Black Friday,247
+1093,Celular,Accesorios,706.2,35,173,Si,1.3,7683,Marzo,Martes,Campaña Escolar,348
+1094,Tablet,Tecnologia,1889.72,20,109,Si,3.7,1632,Mayo,Jueves,Campaña Escolar,198
+1095,Smartwatch,Accesorios,946.03,25,94,No,2.7,4816,Febrero,Martes,Black Friday,266
+1096,Escritorio,Computo,1209.29,1,253,No,1.0,7276,Agosto,Martes,Black Friday,206
+1097,Smartwatch,Tecnologia,2406.07,38,451,No,2.0,1587,Octubre,Sabado,Black Friday,275
+1098,Tablet,Gaming,3187.48,15,397,Si,3.5,5560,Diciembre,Viernes,Navidad,271
+1099,Camara,Tecnologia,777.77,11,364,Si,3.3,8747,Agosto,Jueves,Normal,283
+1100,Camara,Gaming,2586.26,32,493,No,1.3,9294,Julio,Sabado,Normal,264
+1101,Camara,Tecnologia,2223.46,13,418,No,2.0,4777,Abril,Miercoles,Black Friday,253
+1102,Disco SSD,Computo,1062.46,49,450,No,1.4,769,Mayo,Jueves,Campaña Escolar,290
+1103,Audifonos,Gaming,3275.28,2,123,Si,3.4,8561,Enero,Sabado,Navidad,252
+1104,Celular,Oficina,3195.87,19,67,Si,1.0,7191,Febrero,Sabado,Navidad,241
+1105,Teclado,Gaming,287.25,13,362,No,4.9,3926,Diciembre,Viernes,Campaña Escolar,252
+1106,Tablet,Computo,2213.01,4,424,No,2.4,9297,Agosto,Lunes,Campaña Escolar,230
+1107,Router,Accesorios,2575.54,2,39,No,1.9,9294,Agosto,Lunes,Fiestas Patrias,182
+1108,Escritorio,Accesorios,327.62,25,395,Si,4.9,4725,Diciembre,Sabado,Normal,324
+1109,Mouse,Oficina,1468.24,12,240,No,4.9,520,Noviembre,Miercoles,Normal,155
+1110,Escritorio,Gaming,217.06,30,56,No,4.7,5123,Octubre,Martes,Black Friday,311
+1111,Laptop,Accesorios,1084.51,4,67,Si,1.3,1403,Junio,Viernes,Campaña Escolar,151
+1112,Parlante,Accesorios,1277.03,36,295,No,1.3,9719,Marzo,Domingo,Normal,296
+1113,Audifonos,Computo,2046.19,2,406,No,1.1,362,Diciembre,Domingo,Black Friday,156
+1114,Silla Gamer,Accesorios,2791.44,48,307,Si,4.3,9749,Febrero,Martes,Campaña Escolar,409
+1115,Router,Computo,2122.98,38,363,No,2.7,8838,Enero,Jueves,Black Friday,342
+1116,Camara,Tecnologia,2260.14,29,123,Si,2.4,2478,Octubre,Jueves,Campaña Escolar,239
+1117,Router,Oficina,1133.66,7,107,Si,1.7,9594,Agosto,Jueves,Black Friday,309
+1118,Router,Gaming,2331.9,10,216,No,1.1,6920,Enero,Martes,Navidad,200
+1119,Router,Gaming,3310.32,31,35,Si,2.7,8163,Abril,Lunes,Campaña Escolar,279
+1120,Laptop,Computo,2518.88,18,238,No,3.9,8608,Enero,Martes,Normal,229
+1121,Impresora,Tecnologia,3438.25,6,35,Si,1.7,5241,Enero,Lunes,Black Friday,223
+1122,Teclado,Computo,2908.19,25,142,Si,2.0,5788,Octubre,Sabado,Navidad,247
+1123,Celular,Gaming,1579.34,42,27,No,1.8,9039,Junio,Lunes,Normal,277
+1124,Impresora,Computo,1785.72,47,458,No,1.5,1442,Julio,Domingo,Normal,247
+1125,Parlante,Gaming,3043.98,49,175,Si,1.0,4803,Febrero,Miercoles,Black Friday,319
+1126,Mouse,Computo,689.26,28,195,Si,4.7,4919,Junio,Viernes,Black Friday,399
+1127,Escritorio,Accesorios,1714.16,11,108,Si,3.5,5732,Octubre,Lunes,Normal,211
+1128,Celular,Gaming,365.03,12,222,No,2.8,1574,Diciembre,Miercoles,Black Friday,207
+1129,Audifonos,Gaming,1072.34,8,88,Si,2.9,7114,Octubre,Viernes,Fiestas Patrias,260
+1130,Router,Gaming,1477.85,37,140,No,1.3,7660,Agosto,Viernes,Black Friday,319
+1131,Smartwatch,Accesorios,2339.1,47,201,Si,3.3,2420,Octubre,Martes,Fiestas Patrias,265
+1132,Laptop,Tecnologia,3368.5,2,148,Si,2.2,1014,Enero,Jueves,Normal,101
+1133,Smartwatch,Gaming,3405.5,27,72,No,2.7,5693,Julio,Jueves,Normal,181
+1134,Impresora,Gaming,884.04,47,33,Si,2.6,405,Noviembre,Martes,Normal,240
+1135,Escritorio,Computo,3486.06,45,38,No,2.0,1063,Mayo,Domingo,Normal,170
+1136,Audifonos,Gaming,380.66,31,73,Si,2.2,3785,Septiembre,Miercoles,Normal,265
+1137,Silla Gamer,Computo,44.68,37,40,Si,4.3,8011,Junio,Jueves,Navidad,389
+1138,Parlante,Accesorios,3148.6,37,96,No,1.5,1478,Abril,Miercoles,Fiestas Patrias,175
+1139,Disco SSD,Oficina,2957.77,5,53,No,2.9,1090,Enero,Sabado,Campaña Escolar,105
+1140,Teclado,Oficina,2821.81,29,78,No,2.2,4412,Septiembre,Miercoles,Black Friday,254
+1141,Disco SSD,Tecnologia,656.47,26,459,No,3.2,8914,Septiembre,Miercoles,Navidad,329
+1142,Camara,Gaming,3440.35,30,20,No,1.6,4121,Enero,Martes,Navidad,182
+1143,Smartwatch,Computo,1992.67,34,11,Si,3.7,9654,Febrero,Martes,Fiestas Patrias,352
+1144,Impresora,Oficina,2342.31,24,395,No,4.1,9291,Noviembre,Viernes,Campaña Escolar,307
+1145,Teclado,Gaming,1708.81,2,234,No,3.1,4918,Febrero,Domingo,Fiestas Patrias,194
+1146,Escritorio,Tecnologia,567.07,50,300,No,3.1,2067,Mayo,Jueves,Normal,291
+1147,Disco SSD,Accesorios,2201.38,12,194,Si,4.2,2484,Junio,Jueves,Fiestas Patrias,237
+1148,Camara,Computo,738.74,39,255,Si,4.5,2313,Marzo,Lunes,Fiestas Patrias,323
+1149,Smartwatch,Accesorios,1923.27,15,381,Si,2.7,8094,Febrero,Jueves,Navidad,314
+1150,Smartwatch,Oficina,295.18,43,146,No,1.4,6664,Septiembre,Martes,Campaña Escolar,304
+1151,Disco SSD,Oficina,372.06,12,197,No,2.4,1059,Diciembre,Domingo,Navidad,193
+1152,Smartwatch,Computo,974.09,15,178,Si,4.1,5474,Marzo,Domingo,Normal,254
+1153,Monitor,Tecnologia,1360.17,3,99,Si,1.2,7528,Agosto,Jueves,Navidad,224
+1154,Laptop,Computo,2457.21,22,254,Si,1.4,8674,Enero,Sabado,Navidad,299
+1155,Impresora,Oficina,294.68,20,410,No,2.9,2283,Enero,Lunes,Navidad,214
+1156,Laptop,Gaming,2971.75,38,449,No,2.9,7880,Mayo,Sabado,Campaña Escolar,315
+1157,Monitor,Accesorios,1198.37,32,240,No,3.2,1146,Mayo,Miercoles,Navidad,253
+1158,Smartwatch,Oficina,2013.25,26,335,Si,4.2,8854,Noviembre,Lunes,Fiestas Patrias,295
+1159,Teclado,Computo,1856.61,24,205,Si,4.9,4489,Febrero,Lunes,Navidad,305
+1160,Monitor,Gaming,607.63,29,392,No,1.8,1080,Junio,Viernes,Fiestas Patrias,239
+1161,Teclado,Computo,1144.55,15,433,Si,1.3,2900,Octubre,Martes,Campaña Escolar,247
+1162,Audifonos,Gaming,1333.17,16,297,Si,2.0,4105,Junio,Viernes,Black Friday,279
+1163,Teclado,Tecnologia,980.3,24,75,Si,1.3,4582,Agosto,Sabado,Normal,224
+1164,Tablet,Tecnologia,2720.01,32,64,Si,3.3,1271,Febrero,Jueves,Black Friday,258
+1165,Escritorio,Gaming,3211.43,46,472,No,2.9,9386,Octubre,Sabado,Black Friday,374
+1166,Audifonos,Computo,1246.8,30,481,Si,1.8,8014,Abril,Sabado,Navidad,353
+1167,Disco SSD,Oficina,460.7,16,407,No,3.0,3563,Octubre,Martes,Normal,210
+1168,Mouse,Oficina,3233.04,17,375,No,2.1,8378,Mayo,Sabado,Black Friday,274
+1169,Monitor,Accesorios,2312.98,7,413,No,3.9,5071,Marzo,Domingo,Navidad,237
+1170,Disco SSD,Computo,1064.23,11,24,No,2.1,9878,Julio,Martes,Fiestas Patrias,273
+1171,Celular,Oficina,718.48,28,123,Si,1.8,3485,Enero,Lunes,Black Friday,311
+1172,Impresora,Oficina,2238.16,25,380,No,2.9,9769,Agosto,Domingo,Campaña Escolar,288
+1173,Smartwatch,Computo,3434.22,7,422,Si,1.5,3395,Octubre,Viernes,Campaña Escolar,190
+1174,Tablet,Tecnologia,1716.06,34,402,No,4.8,9968,Junio,Viernes,Normal,294
+1175,Camara,Oficina,2360.8,2,190,Si,3.9,7145,Julio,Viernes,Black Friday,288
+1176,Router,Accesorios,493.48,21,158,No,1.6,6173,Septiembre,Martes,Black Friday,294
+1177,Mouse,Computo,75.16,22,150,No,4.6,9087,Abril,Domingo,Navidad,305
+1178,Smartwatch,Oficina,1991.48,20,451,Si,2.2,7161,Octubre,Domingo,Fiestas Patrias,290
+1179,Teclado,Tecnologia,2197.93,16,52,No,1.6,1591,Diciembre,Sabado,Navidad,225
+1180,Mouse,Gaming,614.43,44,331,Si,2.3,8648,Octubre,Jueves,Fiestas Patrias,404
+1181,Parlante,Oficina,1786.98,31,144,Si,1.4,4799,Marzo,Miercoles,Black Friday,286
+1182,Router,Tecnologia,491.98,17,353,No,3.8,1363,Noviembre,Domingo,Navidad,264
+1183,Impresora,Oficina,3499.48,14,212,Si,3.6,3145,Noviembre,Sabado,Normal,195
+1184,Monitor,Accesorios,748.39,27,497,Si,3.8,7687,Octubre,Domingo,Normal,316
+1185,Silla Gamer,Accesorios,934.09,28,51,No,2.0,3843,Agosto,Viernes,Fiestas Patrias,249
+1186,Router,Gaming,2392.61,44,318,No,2.6,7692,Agosto,Martes,Campaña Escolar,294
+1187,Audifonos,Gaming,3262.17,32,314,No,2.1,3224,Noviembre,Miercoles,Black Friday,244
+1188,Mouse,Gaming,2736.39,6,136,No,2.6,6104,Enero,Viernes,Navidad,203
+1189,Parlante,Accesorios,1296.19,27,471,Si,1.7,4631,Mayo,Lunes,Fiestas Patrias,321
+1190,Laptop,Gaming,3191.47,2,373,Si,1.7,6085,Junio,Lunes,Fiestas Patrias,173
+1191,Monitor,Oficina,573.87,10,369,No,4.5,9160,Diciembre,Viernes,Black Friday,356
+1192,Escritorio,Oficina,2654.11,17,50,Si,1.7,283,Julio,Jueves,Black Friday,208
+1193,Silla Gamer,Accesorios,56.72,13,117,No,3.2,3160,Agosto,Martes,Campaña Escolar,200
+1194,Parlante,Computo,82.92,3,156,Si,3.5,262,Julio,Martes,Fiestas Patrias,181
+1195,Teclado,Tecnologia,2362.43,13,426,Si,4.5,5967,Febrero,Sabado,Normal,223
+1196,Escritorio,Oficina,1627.9,47,267,Si,1.2,3895,Noviembre,Jueves,Campaña Escolar,307
+1197,Teclado,Oficina,358.87,39,230,No,4.8,3379,Agosto,Domingo,Navidad,366
+1198,Router,Accesorios,2291.49,36,255,No,2.5,7223,Agosto,Viernes,Black Friday,337
+1199,Tablet,Computo,698.4,39,246,Si,3.3,6450,Abril,Martes,Black Friday,361
+1200,Router,Oficina,1999.47,4,282,No,2.7,7827,Diciembre,Martes,Navidad,251
+1201,Tablet,Gaming,1074.25,22,428,Si,4.9,7680,Octubre,Miercoles,Normal,330
+1202,Router,Oficina,3086.75,45,161,No,2.5,9543,Diciembre,Miercoles,Normal,272
+1203,Escritorio,Tecnologia,2744.57,7,304,No,2.9,4706,Marzo,Sabado,Navidad,211
+1204,Celular,Gaming,1773.62,27,305,Si,2.5,7296,Febrero,Viernes,Navidad,304
+1205,Monitor,Oficina,2834.62,16,170,No,3.1,2405,Noviembre,Sabado,Normal,128
+1206,Router,Tecnologia,1210.81,48,486,No,3.2,1771,Junio,Viernes,Normal,293
+1207,Celular,Gaming,2274.07,9,271,No,3.5,114,Agosto,Viernes,Fiestas Patrias,154
+1208,Impresora,Computo,1559.33,8,378,No,2.3,5052,Mayo,Martes,Normal,165
+1209,Escritorio,Gaming,1644.06,24,186,Si,1.2,1519,Mayo,Lunes,Black Friday,267
+1210,Router,Tecnologia,866.07,38,321,Si,1.7,4201,Noviembre,Miercoles,Navidad,394
+1211,Audifonos,Oficina,2673.31,29,277,Si,2.0,2942,Febrero,Martes,Navidad,291
+1212,Parlante,Computo,2824.06,15,144,No,2.1,9084,Mayo,Martes,Navidad,277
+1213,Audifonos,Computo,2448.57,28,201,Si,1.0,8637,Enero,Sabado,Normal,255
+1214,Disco SSD,Gaming,1577.3,8,242,No,4.7,5544,Diciembre,Martes,Black Friday,288
+1215,Smartwatch,Accesorios,245.85,23,437,No,2.0,6334,Mayo,Domingo,Campaña Escolar,250
+1216,Teclado,Gaming,2806.79,14,232,Si,3.0,1618,Enero,Miercoles,Normal,187
+1217,Router,Accesorios,2909.11,11,366,No,2.4,7953,Agosto,Domingo,Black Friday,261
+1218,Monitor,Oficina,1864.58,24,380,Si,2.0,4120,Diciembre,Sabado,Campaña Escolar,282
+1219,Router,Computo,2570.41,31,76,Si,5.0,9944,Enero,Sabado,Fiestas Patrias,349
+1220,Laptop,Accesorios,326.74,16,61,No,4.0,2434,Agosto,Jueves,Black Friday,210
+1221,Celular,Gaming,3467.44,47,247,No,3.0,6945,Abril,Jueves,Black Friday,341
+1222,Audifonos,Accesorios,1552.5,28,123,Si,4.5,5314,Septiembre,Domingo,Black Friday,328
+1223,Audifonos,Oficina,2317.97,7,175,Si,2.7,2958,Julio,Sabado,Fiestas Patrias,217
+1224,Mouse,Gaming,1398.27,8,432,No,2.7,4541,Noviembre,Miercoles,Black Friday,238
+1225,Impresora,Computo,2716.75,38,411,No,4.2,4663,Mayo,Domingo,Normal,255
+1226,Silla Gamer,Gaming,222.67,37,191,Si,1.4,4086,Julio,Jueves,Campaña Escolar,305
+1227,Camara,Computo,3317.53,7,354,No,2.1,2853,Noviembre,Sabado,Campaña Escolar,155
+1228,Camara,Tecnologia,3088.09,11,101,Si,3.5,182,Noviembre,Lunes,Normal,143
+1229,Tablet,Tecnologia,1337.79,28,473,No,3.8,9785,Septiembre,Lunes,Black Friday,383
+1230,Monitor,Computo,3391.48,39,170,Si,1.3,2013,Mayo,Martes,Normal,255
+1231,Router,Tecnologia,2947.01,6,387,Si,2.7,6511,Enero,Viernes,Campaña Escolar,285
+1232,Escritorio,Tecnologia,237.43,2,431,Si,3.7,7330,Febrero,Domingo,Navidad,311
+1233,Tablet,Gaming,943.0,43,167,No,4.8,4657,Marzo,Lunes,Campaña Escolar,307
+1234,Audifonos,Oficina,265.51,48,237,No,3.9,5841,Noviembre,Lunes,Black Friday,359
+1235,Smartwatch,Oficina,2887.16,37,335,No,4.9,736,Diciembre,Sabado,Fiestas Patrias,243
+1236,Teclado,Tecnologia,427.38,11,222,No,3.9,4468,Mayo,Domingo,Normal,219
+1237,Tablet,Computo,1699.08,50,329,Si,1.0,4407,Enero,Miercoles,Fiestas Patrias,318
+1238,Celular,Tecnologia,1733.56,42,304,No,1.7,927,Agosto,Martes,Navidad,249
+1239,Teclado,Oficina,848.97,48,173,No,2.8,9893,Febrero,Martes,Navidad,373
+1240,Monitor,Gaming,791.79,16,102,No,1.8,2322,Noviembre,Lunes,Black Friday,216
+1241,Mouse,Tecnologia,3442.19,23,20,No,1.1,8276,Febrero,Lunes,Navidad,243
+1242,Smartwatch,Oficina,3204.68,22,92,Si,3.7,4489,Enero,Jueves,Campaña Escolar,250
+1243,Disco SSD,Tecnologia,2744.31,11,299,Si,4.2,7919,Noviembre,Jueves,Fiestas Patrias,286
+1244,Escritorio,Computo,3433.05,10,43,No,1.9,78,Julio,Viernes,Normal,91
+1245,Celular,Oficina,2778.04,15,432,Si,1.3,5805,Julio,Domingo,Normal,208
+1246,Laptop,Oficina,2948.82,1,306,Si,4.6,622,Diciembre,Domingo,Black Friday,231
+1247,Router,Gaming,787.12,38,476,No,3.7,3790,Junio,Miercoles,Fiestas Patrias,309
+1248,Laptop,Tecnologia,2189.47,5,122,Si,3.2,9838,Junio,Viernes,Fiestas Patrias,259
+1249,Parlante,Oficina,954.72,6,466,Si,1.3,5296,Mayo,Sabado,Campaña Escolar,221
+1250,Camara,Tecnologia,2607.74,10,490,No,2.3,8178,Julio,Sabado,Campaña Escolar,250
+1251,Escritorio,Oficina,49.56,17,498,No,3.9,654,Febrero,Sabado,Fiestas Patrias,250
+1252,Mouse,Oficina,2085.9,24,11,Si,3.3,1749,Diciembre,Martes,Campaña Escolar,213
+1253,Monitor,Tecnologia,2869.24,20,214,No,3.6,4136,Diciembre,Viernes,Campaña Escolar,238
+1254,Tablet,Tecnologia,40.41,13,65,No,4.5,8390,Septiembre,Sabado,Fiestas Patrias,236
+1255,Camara,Oficina,3412.2,45,281,Si,1.2,4558,Enero,Lunes,Fiestas Patrias,307
+1256,Impresora,Tecnologia,3088.35,32,75,No,4.0,3323,Julio,Lunes,Campaña Escolar,179
+1257,Silla Gamer,Gaming,2348.66,45,122,Si,2.9,8830,Marzo,Sabado,Navidad,365
+1258,Disco SSD,Tecnologia,1069.78,46,124,No,4.4,9871,Enero,Sabado,Campaña Escolar,385
+1259,Silla Gamer,Tecnologia,1378.33,13,21,Si,2.0,3036,Agosto,Viernes,Normal,199
+1260,Escritorio,Accesorios,2095.45,19,457,No,4.2,5802,Enero,Martes,Normal,281
+1261,Parlante,Tecnologia,1672.03,9,372,Si,4.3,4361,Agosto,Viernes,Campaña Escolar,241
+1262,Parlante,Tecnologia,321.89,44,302,Si,1.1,8675,Febrero,Jueves,Navidad,404
+1263,Mouse,Accesorios,2555.16,23,162,No,2.5,7051,Julio,Miercoles,Black Friday,255
+1264,Mouse,Gaming,1845.26,5,255,Si,4.1,3314,Septiembre,Martes,Fiestas Patrias,205
+1265,Smartwatch,Tecnologia,2867.9,35,451,Si,4.2,3291,Octubre,Martes,Fiestas Patrias,292
+1266,Mouse,Computo,2865.9,30,298,Si,4.7,4459,Marzo,Domingo,Black Friday,355
+1267,Escritorio,Computo,261.18,8,137,Si,3.4,7470,Septiembre,Martes,Black Friday,309
+1268,Disco SSD,Gaming,2652.12,2,308,No,3.0,1129,Enero,Martes,Normal,94
+1269,Smartwatch,Accesorios,951.49,14,118,Si,4.6,5307,Enero,Jueves,Normal,217
+1270,Laptop,Accesorios,1544.32,40,97,No,2.7,6277,Febrero,Sabado,Navidad,298
+1271,Tablet,Oficina,1474.53,25,336,Si,2.3,9330,Diciembre,Martes,Campaña Escolar,291
+1272,Silla Gamer,Computo,1226.58,19,70,Si,4.6,839,Septiembre,Jueves,Black Friday,305
+1273,Teclado,Gaming,1393.04,0,295,Si,2.1,5439,Diciembre,Lunes,Navidad,248
+1274,Escritorio,Oficina,2134.0,12,161,No,4.5,471,Octubre,Lunes,Fiestas Patrias,195
+1275,Tablet,Tecnologia,2300.92,48,84,Si,4.5,1884,Septiembre,Martes,Campaña Escolar,353
+1276,Camara,Tecnologia,1415.07,41,421,Si,3.7,436,Octubre,Miercoles,Navidad,354
+1277,Celular,Accesorios,273.12,41,407,Si,2.7,6747,Mayo,Lunes,Campaña Escolar,371
+1278,Smartwatch,Accesorios,2598.27,50,394,No,2.4,6827,Noviembre,Domingo,Black Friday,377
+1279,Teclado,Accesorios,1351.05,16,167,No,1.1,1016,Noviembre,Lunes,Normal,104
+1280,Audifonos,Accesorios,1618.52,48,138,No,4.7,5734,Julio,Miercoles,Fiestas Patrias,303
+1281,Laptop,Tecnologia,871.0,39,54,Si,1.4,154,Diciembre,Lunes,Navidad,240
+1282,Teclado,Tecnologia,473.97,38,210,Si,1.6,6432,Agosto,Viernes,Normal,294
+1283,Disco SSD,Accesorios,822.96,4,281,No,4.1,536,Diciembre,Jueves,Navidad,191
+1284,Tablet,Accesorios,2094.3,25,223,Si,2.3,9198,Diciembre,Sabado,Fiestas Patrias,334
+1285,Smartwatch,Tecnologia,1932.9,1,295,Si,2.9,6893,Junio,Martes,Normal,190
+1286,Escritorio,Oficina,1979.81,24,470,Si,1.0,8073,Abril,Jueves,Campaña Escolar,290
+1287,Celular,Gaming,3285.8,32,67,Si,1.5,2637,Agosto,Lunes,Black Friday,272
+1288,Monitor,Gaming,2586.06,41,94,No,2.7,1696,Agosto,Martes,Black Friday,263
+1289,Teclado,Oficina,3475.06,4,114,No,1.5,2417,Diciembre,Martes,Fiestas Patrias,105
+1290,Monitor,Computo,24.97,24,484,Si,4.3,9427,Marzo,Lunes,Navidad,396
+1291,Audifonos,Accesorios,3497.24,48,234,No,1.6,4727,Febrero,Domingo,Black Friday,334
+1292,Tablet,Accesorios,1830.0,14,17,Si,2.3,7777,Junio,Martes,Fiestas Patrias,287
+1293,Smartwatch,Gaming,1799.46,3,455,Si,1.2,868,Marzo,Viernes,Navidad,223
+1294,Mouse,Oficina,1597.89,17,19,No,1.2,2051,Septiembre,Jueves,Campaña Escolar,140
+1295,Parlante,Oficina,1502.91,20,74,Si,3.4,6381,Mayo,Lunes,Black Friday,318
+1296,Monitor,Computo,3286.74,45,441,Si,3.3,9531,Julio,Viernes,Campaña Escolar,374
+1297,Disco SSD,Gaming,1076.19,0,342,Si,2.3,9024,Enero,Jueves,Normal,227
+1298,Celular,Gaming,1853.32,12,407,No,1.4,5137,Enero,Jueves,Navidad,224
+1299,Celular,Tecnologia,1635.94,30,90,Si,4.0,9158,Agosto,Jueves,Campaña Escolar,304
+1300,Camara,Tecnologia,367.18,30,410,Si,3.7,1018,Diciembre,Sabado,Black Friday,330
+1301,Teclado,Computo,1790.22,0,141,Si,3.1,939,Mayo,Martes,Normal,148
+1302,Celular,Computo,1698.14,9,299,Si,4.9,3399,Marzo,Sabado,Black Friday,294
+1303,Celular,Oficina,769.14,1,359,Si,1.8,9371,Marzo,Domingo,Black Friday,322
+1304,Smartwatch,Computo,1368.93,43,17,Si,4.7,3235,Noviembre,Jueves,Normal,274
+1305,Tablet,Computo,1378.2,37,388,No,3.7,8540,Septiembre,Lunes,Fiestas Patrias,328
+1306,Smartwatch,Computo,1582.0,5,343,Si,4.4,9624,Diciembre,Viernes,Navidad,295
+1307,Smartwatch,Tecnologia,3181.27,50,250,No,1.4,6670,Octubre,Miercoles,Normal,230
+1308,Disco SSD,Tecnologia,3185.36,6,163,No,1.9,3466,Febrero,Jueves,Fiestas Patrias,160
+1309,Router,Tecnologia,3353.03,25,435,Si,3.1,2120,Junio,Miercoles,Campaña Escolar,220
+1310,Camara,Accesorios,1086.27,8,165,Si,2.1,8922,Marzo,Miercoles,Campaña Escolar,290
+1311,Silla Gamer,Oficina,308.54,20,425,Si,2.4,4972,Diciembre,Domingo,Navidad,291
+1312,Smartwatch,Accesorios,685.05,39,387,No,2.1,9970,Junio,Miercoles,Fiestas Patrias,343
+1313,Audifonos,Tecnologia,736.49,3,364,No,4.4,7136,Febrero,Miercoles,Fiestas Patrias,231
+1314,Celular,Gaming,1794.75,40,460,No,2.9,1343,Septiembre,Domingo,Normal,224
+1315,Escritorio,Gaming,1731.25,30,323,No,1.5,9475,Noviembre,Domingo,Navidad,285
+1316,Celular,Gaming,714.51,27,145,Si,3.6,8180,Junio,Domingo,Normal,293
+1317,Disco SSD,Oficina,2683.14,21,474,Si,2.1,5823,Febrero,Lunes,Black Friday,303
+1318,Audifonos,Tecnologia,1467.93,36,489,Si,1.8,2388,Febrero,Martes,Fiestas Patrias,318
+1319,Escritorio,Accesorios,2276.62,45,212,Si,4.0,7221,Agosto,Martes,Campaña Escolar,352
+1320,Audifonos,Oficina,1453.57,43,57,No,1.2,8677,Noviembre,Viernes,Campaña Escolar,309
+1321,Impresora,Oficina,1989.29,3,148,No,1.2,3194,Agosto,Sabado,Normal,84
+1322,Monitor,Tecnologia,2532.5,25,111,No,3.6,6744,Enero,Domingo,Campaña Escolar,226
+1323,Tablet,Gaming,1506.35,18,97,No,4.8,3198,Junio,Sabado,Fiestas Patrias,222
+1324,Router,Gaming,1351.9,21,214,No,4.2,8383,Septiembre,Jueves,Black Friday,303
+1325,Router,Accesorios,2362.07,19,152,Si,3.3,3010,Mayo,Martes,Fiestas Patrias,219
+1326,Celular,Computo,3181.11,2,134,Si,4.3,7681,Mayo,Domingo,Normal,218
+1327,Impresora,Computo,1459.48,48,72,Si,2.5,610,Agosto,Martes,Navidad,252
+1328,Escritorio,Gaming,3338.89,14,347,Si,2.2,9983,Mayo,Martes,Campaña Escolar,289
+1329,Teclado,Accesorios,3161.85,44,327,Si,2.7,5440,Febrero,Lunes,Fiestas Patrias,324
+1330,Celular,Computo,231.18,43,84,Si,1.7,1775,Junio,Martes,Campaña Escolar,260
+1331,Silla Gamer,Computo,2901.18,23,322,No,3.7,8903,Junio,Martes,Fiestas Patrias,290
+1332,Camara,Accesorios,2925.65,33,322,Si,2.2,3176,Septiembre,Miercoles,Normal,234
+1333,Tablet,Oficina,160.18,7,281,Si,2.5,4126,Marzo,Jueves,Fiestas Patrias,244
+1334,Laptop,Gaming,3251.21,17,370,No,2.8,8251,Septiembre,Miercoles,Fiestas Patrias,241
+1335,Disco SSD,Computo,1222.76,46,330,No,1.2,4940,Octubre,Sabado,Campaña Escolar,257
+1336,Impresora,Tecnologia,2421.29,28,280,Si,3.1,2966,Diciembre,Jueves,Normal,205
+1337,Silla Gamer,Gaming,372.44,29,29,No,2.0,6315,Febrero,Miercoles,Normal,240
+1338,Router,Accesorios,2487.76,20,409,No,2.0,5988,Agosto,Miercoles,Normal,183
+1339,Laptop,Gaming,3131.75,16,47,Si,4.0,5360,Noviembre,Martes,Navidad,264
+1340,Smartwatch,Computo,1418.31,14,436,No,3.9,4562,Abril,Lunes,Normal,229
+1341,Silla Gamer,Tecnologia,30.13,50,137,No,4.2,1429,Septiembre,Jueves,Campaña Escolar,331
+1342,Impresora,Gaming,1571.14,11,199,No,2.1,5661,Octubre,Viernes,Normal,211
+1343,Tablet,Accesorios,554.82,19,34,No,4.1,5962,Diciembre,Domingo,Black Friday,275
+1344,Tablet,Computo,3266.04,24,364,No,3.9,4834,Enero,Miercoles,Fiestas Patrias,238
+1345,Audifonos,Oficina,2787.6,16,290,No,2.8,8858,Septiembre,Lunes,Campaña Escolar,242
+1346,Escritorio,Oficina,1726.76,49,153,No,4.2,8255,Agosto,Miercoles,Campaña Escolar,354
+1347,Escritorio,Oficina,1954.57,25,195,Si,2.8,5003,Marzo,Domingo,Navidad,282
+1348,Teclado,Accesorios,2225.61,46,192,No,2.4,1356,Mayo,Jueves,Navidad,230
+1349,Mouse,Gaming,3237.24,22,337,No,2.7,959,Julio,Lunes,Normal,150
+1350,Silla Gamer,Computo,655.54,31,234,No,3.2,9457,Julio,Martes,Navidad,327
+1351,Escritorio,Gaming,2682.57,14,278,No,2.9,1453,Marzo,Martes,Campaña Escolar,167
+1352,Audifonos,Gaming,1844.06,21,24,No,1.2,3053,Agosto,Lunes,Fiestas Patrias,171
+1353,Celular,Gaming,1697.31,27,74,Si,1.5,1839,Diciembre,Jueves,Campaña Escolar,230
+1354,Smartwatch,Tecnologia,978.5,5,113,No,2.3,1023,Marzo,Miercoles,Fiestas Patrias,170
+1355,Mouse,Computo,3357.4,9,63,Si,2.0,5200,Julio,Martes,Black Friday,266
+1356,Laptop,Tecnologia,1857.61,38,165,No,3.9,5923,Mayo,Jueves,Normal,255
+1357,Router,Oficina,2415.64,20,317,No,4.2,6525,Octubre,Jueves,Fiestas Patrias,270
+1358,Escritorio,Tecnologia,3177.97,39,309,Si,4.1,4587,Junio,Viernes,Navidad,362
+1359,Parlante,Computo,306.87,32,25,Si,1.3,7791,Marzo,Viernes,Normal,294
+1360,Impresora,Oficina,3192.34,7,335,Si,3.1,6088,Diciembre,Martes,Fiestas Patrias,219
+1361,Laptop,Computo,1712.82,41,244,Si,4.5,1850,Junio,Jueves,Fiestas Patrias,318
+1362,Audifonos,Computo,1661.39,30,189,Si,1.2,4010,Septiembre,Sabado,Normal,256
+1363,Smartwatch,Accesorios,2525.46,31,271,No,3.0,402,Febrero,Viernes,Campaña Escolar,221
+1364,Parlante,Computo,852.62,20,127,No,4.3,6852,Noviembre,Domingo,Fiestas Patrias,243
+1365,Silla Gamer,Computo,1823.77,14,399,No,2.3,7062,Febrero,Viernes,Navidad,258
+1366,Parlante,Accesorios,3028.6,50,82,No,3.4,3430,Enero,Martes,Navidad,287
+1367,Impresora,Oficina,3011.92,5,87,Si,2.0,1929,Julio,Miercoles,Campaña Escolar,175
+1368,Monitor,Accesorios,1260.24,23,35,Si,4.8,9166,Septiembre,Martes,Campaña Escolar,310
+1369,Tablet,Oficina,833.01,43,70,Si,2.3,4853,Febrero,Lunes,Campaña Escolar,278
+1370,Celular,Computo,1766.74,25,209,Si,3.2,2698,Mayo,Sabado,Fiestas Patrias,283
+1371,Parlante,Oficina,2655.84,0,198,Si,4.2,3624,Octubre,Viernes,Fiestas Patrias,182
+1372,Escritorio,Computo,1639.96,37,123,Si,3.9,5819,Enero,Sabado,Normal,275
+1373,Teclado,Accesorios,307.93,48,178,Si,2.2,9526,Diciembre,Martes,Fiestas Patrias,381
+1374,Monitor,Accesorios,1353.41,38,481,Si,4.6,7777,Febrero,Jueves,Normal,322
+1375,Laptop,Oficina,267.98,5,47,Si,4.1,4940,Julio,Lunes,Campaña Escolar,277
+1376,Laptop,Gaming,3283.21,26,56,Si,4.8,9278,Octubre,Lunes,Black Friday,346
+1377,Disco SSD,Computo,477.85,44,99,Si,4.6,7989,Enero,Lunes,Fiestas Patrias,344
+1378,Smartwatch,Tecnologia,1974.31,32,358,Si,4.1,3131,Febrero,Viernes,Campaña Escolar,308
+1379,Teclado,Computo,1912.7,30,165,No,2.9,2983,Enero,Lunes,Campaña Escolar,231
+1380,Router,Computo,1530.49,23,215,Si,4.6,5880,Junio,Martes,Navidad,339
+1381,Camara,Gaming,2107.6,23,164,Si,4.3,8332,Febrero,Lunes,Navidad,386
+1382,Camara,Accesorios,608.55,3,166,Si,2.8,4540,Diciembre,Martes,Fiestas Patrias,199
+1383,Disco SSD,Gaming,1135.91,16,173,Si,4.9,8481,Enero,Sabado,Normal,306
+1384,Disco SSD,Gaming,1442.6,21,65,Si,4.0,7052,Diciembre,Jueves,Fiestas Patrias,281
+1385,Celular,Tecnologia,1364.1,13,137,No,2.4,4587,Marzo,Domingo,Fiestas Patrias,205
+1386,Tablet,Accesorios,101.55,47,211,Si,4.5,4038,Septiembre,Martes,Black Friday,400
+1387,Smartwatch,Computo,349.06,0,74,Si,3.4,87,Febrero,Jueves,Normal,152
+1388,Celular,Computo,2890.43,48,57,Si,2.1,4201,Diciembre,Miercoles,Navidad,330
+1389,Mouse,Computo,2951.78,4,225,No,1.3,5770,Agosto,Lunes,Black Friday,198
+1390,Celular,Gaming,2065.14,2,58,Si,3.6,2510,Diciembre,Miercoles,Black Friday,204
+1391,Camara,Oficina,3382.47,8,449,Si,3.5,9631,Mayo,Domingo,Black Friday,323
+1392,Parlante,Tecnologia,161.24,19,443,Si,4.3,6250,Agosto,Sabado,Fiestas Patrias,324
+1393,Laptop,Oficina,1690.46,16,187,No,1.6,1243,Noviembre,Lunes,Black Friday,160
+1394,Camara,Tecnologia,1281.79,37,289,No,5.0,2471,Febrero,Martes,Black Friday,316
+1395,Escritorio,Gaming,2131.76,33,74,Si,2.3,762,Febrero,Sabado,Campaña Escolar,231
+1396,Impresora,Accesorios,1698.6,14,103,No,4.3,2158,Junio,Martes,Navidad,180
+1397,Mouse,Accesorios,2588.76,26,21,No,3.3,5329,Julio,Sabado,Black Friday,210
+1398,Smartwatch,Gaming,834.52,6,269,No,2.1,4618,Octubre,Miercoles,Black Friday,237
+1399,Celular,Gaming,1876.99,47,477,No,2.6,1895,Julio,Jueves,Navidad,284
+1400,Teclado,Oficina,466.08,34,370,No,3.5,1628,Febrero,Lunes,Fiestas Patrias,232
+1401,Celular,Accesorios,2725.12,26,46,Si,3.6,7764,Noviembre,Martes,Normal,318
+1402,Escritorio,Tecnologia,606.17,35,156,Si,4.9,2782,Febrero,Jueves,Normal,278
+1403,Tablet,Gaming,2514.18,27,458,No,3.6,9686,Noviembre,Miercoles,Campaña Escolar,317
+1404,Router,Gaming,556.43,8,470,No,3.1,9153,Febrero,Domingo,Normal,235
+1405,Smartwatch,Oficina,2435.37,41,373,No,2.2,2735,Abril,Miercoles,Black Friday,266
+1406,Camara,Computo,293.87,2,167,Si,2.6,1348,Septiembre,Miercoles,Navidad,224
+1407,Smartwatch,Tecnologia,2398.35,18,63,No,1.7,6019,Julio,Lunes,Black Friday,237
+1408,Impresora,Oficina,2173.89,30,298,Si,4.6,7740,Agosto,Jueves,Normal,328
+1409,Teclado,Gaming,1016.18,6,393,Si,1.3,9391,Noviembre,Domingo,Fiestas Patrias,311
+1410,Celular,Oficina,2591.47,15,284,No,1.5,7691,Marzo,Miercoles,Black Friday,294
+1411,Smartwatch,Tecnologia,2407.36,48,338,No,1.3,5949,Octubre,Sabado,Black Friday,285
+1412,Celular,Gaming,1285.37,35,68,No,3.7,4361,Marzo,Viernes,Normal,263
+1413,Audifonos,Oficina,631.49,16,432,No,2.7,606,Octubre,Jueves,Navidad,243
+1414,Smartwatch,Computo,1708.69,17,180,Si,2.2,9890,Junio,Lunes,Normal,256
+1415,Teclado,Computo,318.97,9,329,Si,1.8,1910,Junio,Domingo,Navidad,257
+1416,Smartwatch,Computo,536.72,3,88,No,1.4,2036,Julio,Lunes,Black Friday,159
+1417,Impresora,Oficina,211.78,41,193,Si,3.8,2226,Junio,Lunes,Campaña Escolar,288
+1418,Monitor,Computo,752.09,43,10,No,4.6,8022,Octubre,Lunes,Normal,300
+1419,Mouse,Computo,3015.62,24,426,No,1.1,9230,Marzo,Lunes,Navidad,269
+1420,Laptop,Oficina,487.02,26,426,No,2.4,4532,Noviembre,Domingo,Black Friday,305
+1421,Audifonos,Tecnologia,2951.45,40,160,Si,1.7,7446,Diciembre,Jueves,Navidad,327
+1422,Impresora,Oficina,1541.28,34,303,Si,3.4,2638,Octubre,Jueves,Fiestas Patrias,271
+1423,Smartwatch,Oficina,3496.19,2,458,No,4.8,3268,Febrero,Sabado,Campaña Escolar,166
+1424,Celular,Gaming,3157.03,32,342,No,4.5,9661,Noviembre,Miercoles,Campaña Escolar,309
+1425,Impresora,Oficina,2284.74,37,432,Si,2.3,6518,Abril,Jueves,Normal,246
+1426,Audifonos,Computo,1750.14,9,481,No,1.1,1552,Enero,Miercoles,Navidad,198
+1427,Smartwatch,Accesorios,47.87,49,61,Si,1.6,3533,Octubre,Sabado,Normal,297
+1428,Router,Computo,888.69,33,490,No,4.3,7337,Mayo,Lunes,Navidad,346
+1429,Tablet,Accesorios,2105.49,6,417,No,4.4,9966,Junio,Domingo,Normal,230
+1430,Camara,Computo,760.29,6,106,No,4.4,6157,Julio,Sabado,Navidad,232
+1431,Monitor,Oficina,3335.3,14,445,No,3.0,3062,Julio,Miercoles,Navidad,224
+1432,Silla Gamer,Gaming,1464.19,25,170,Si,4.7,577,Marzo,Lunes,Navidad,274
+1433,Router,Oficina,3484.28,25,96,No,3.0,848,Abril,Sabado,Black Friday,177
+1434,Disco SSD,Gaming,2758.68,2,124,Si,3.9,6299,Octubre,Domingo,Black Friday,235
+1435,Camara,Accesorios,1970.01,23,251,Si,2.4,8628,Junio,Jueves,Campaña Escolar,279
+1436,Teclado,Computo,2963.96,1,208,Si,2.1,7238,Julio,Jueves,Fiestas Patrias,232
+1437,Silla Gamer,Accesorios,435.07,46,415,Si,3.0,465,Julio,Miercoles,Fiestas Patrias,310
+1438,Audifonos,Gaming,701.2,7,307,Si,4.3,6666,Abril,Jueves,Campaña Escolar,281
+1439,Teclado,Accesorios,3064.64,18,247,No,2.7,3866,Enero,Martes,Fiestas Patrias,180
+1440,Celular,Gaming,2907.16,2,96,Si,4.8,4585,Julio,Jueves,Normal,194
+1441,Teclado,Computo,2323.66,7,474,No,3.5,682,Marzo,Lunes,Fiestas Patrias,173
+1442,Silla Gamer,Gaming,1859.47,25,489,No,3.9,3922,Marzo,Sabado,Normal,204
+1443,Smartwatch,Tecnologia,1038.5,11,20,No,4.7,9834,Enero,Domingo,Normal,253
+1444,Router,Computo,535.39,9,89,Si,1.0,3823,Febrero,Jueves,Fiestas Patrias,172
+1445,Tablet,Accesorios,798.75,27,134,Si,3.0,3180,Abril,Lunes,Navidad,313
+1446,Camara,Gaming,1392.31,8,18,Si,1.5,4418,Septiembre,Miercoles,Black Friday,259
+1447,Monitor,Gaming,1722.52,44,17,No,1.9,1196,Febrero,Domingo,Fiestas Patrias,205
+1448,Parlante,Gaming,3305.11,4,452,No,4.4,4834,Diciembre,Jueves,Campaña Escolar,236
+1449,Monitor,Accesorios,429.1,18,447,No,1.8,436,Febrero,Martes,Campaña Escolar,217
+1450,Celular,Oficina,1079.92,18,347,Si,4.1,7312,Mayo,Domingo,Navidad,318
+1451,Celular,Gaming,3166.04,17,390,No,3.7,6192,Junio,Sabado,Normal,175
+1452,Camara,Oficina,755.0,42,446,No,1.7,3281,Agosto,Sabado,Campaña Escolar,307
+1453,Disco SSD,Accesorios,1402.21,15,317,No,3.6,706,Junio,Jueves,Fiestas Patrias,206
+1454,Laptop,Gaming,341.1,2,236,Si,2.4,3335,Enero,Domingo,Normal,171
+1455,Audifonos,Gaming,2284.11,43,402,Si,2.8,5091,Julio,Miercoles,Fiestas Patrias,333
+1456,Camara,Accesorios,162.51,33,55,No,4.9,1727,Agosto,Jueves,Normal,212
+1457,Disco SSD,Computo,3092.08,38,103,No,1.4,5102,Mayo,Lunes,Campaña Escolar,188
+1458,Monitor,Accesorios,1545.28,36,326,No,4.0,3733,Agosto,Sabado,Fiestas Patrias,268
+1459,Smartwatch,Tecnologia,1702.66,1,489,No,1.3,4268,Mayo,Domingo,Normal,168
+1460,Celular,Oficina,2512.81,12,104,Si,2.9,6060,Junio,Sabado,Black Friday,282
+1461,Parlante,Accesorios,2977.78,22,225,Si,4.4,6262,Diciembre,Miercoles,Navidad,255
+1462,Impresora,Oficina,985.45,15,222,No,3.8,6526,Octubre,Sabado,Navidad,274
+1463,Celular,Tecnologia,2698.81,44,56,No,4.5,259,Enero,Sabado,Campaña Escolar,279
+1464,Smartwatch,Accesorios,2627.62,28,270,No,1.3,9224,Enero,Jueves,Campaña Escolar,274
+1465,Impresora,Gaming,3254.68,2,464,Si,3.3,9280,Febrero,Lunes,Campaña Escolar,241
+1466,Camara,Accesorios,2692.95,10,436,No,2.2,1881,Octubre,Sabado,Black Friday,200
+1467,Celular,Oficina,2935.69,9,229,Si,4.5,5316,Diciembre,Martes,Fiestas Patrias,244
+1468,Silla Gamer,Gaming,461.42,42,124,Si,4.4,8961,Junio,Domingo,Fiestas Patrias,406
+1469,Mouse,Oficina,1217.05,19,86,No,5.0,2582,Junio,Martes,Black Friday,253
+1470,Parlante,Gaming,2438.0,38,348,Si,3.2,5045,Abril,Lunes,Normal,274
+1471,Disco SSD,Tecnologia,1688.73,30,232,Si,1.4,9342,Agosto,Martes,Fiestas Patrias,295
+1472,Laptop,Oficina,1576.51,47,360,No,4.8,1100,Octubre,Jueves,Navidad,299
+1473,Teclado,Tecnologia,2439.5,1,374,Si,3.6,4068,Junio,Martes,Navidad,252
+1474,Laptop,Gaming,38.61,21,377,No,4.6,1623,Julio,Domingo,Black Friday,286
+1475,Mouse,Accesorios,354.52,10,218,No,4.7,6300,Diciembre,Martes,Campaña Escolar,242
+1476,Audifonos,Oficina,3359.39,8,355,Si,2.4,5926,Julio,Martes,Black Friday,266
+1477,Router,Accesorios,3202.87,18,37,No,3.3,8265,Mayo,Sabado,Campaña Escolar,198
+1478,Teclado,Oficina,2581.12,50,297,No,2.5,1523,Marzo,Lunes,Fiestas Patrias,267
+1479,Monitor,Gaming,616.03,43,198,No,2.2,469,Agosto,Martes,Fiestas Patrias,260
+1480,Mouse,Tecnologia,466.09,27,303,No,2.0,1390,Agosto,Martes,Fiestas Patrias,211
+1481,Silla Gamer,Accesorios,2350.5,24,454,No,3.4,1411,Diciembre,Jueves,Black Friday,258
+1482,Mouse,Tecnologia,325.26,42,197,No,4.5,2808,Septiembre,Lunes,Normal,244
+1483,Disco SSD,Accesorios,2193.96,31,415,Si,2.5,8544,Agosto,Miercoles,Navidad,346
+1484,Laptop,Computo,3005.55,28,57,No,4.7,5844,Septiembre,Viernes,Black Friday,233
+1485,Tablet,Computo,109.58,18,110,Si,4.2,6868,Marzo,Viernes,Normal,292
+1486,Audifonos,Accesorios,2221.0,35,290,No,3.6,480,Septiembre,Jueves,Fiestas Patrias,226
+1487,Teclado,Tecnologia,3307.73,45,160,No,2.4,5255,Junio,Sabado,Navidad,323
+1488,Teclado,Computo,1384.05,32,269,Si,3.4,1381,Febrero,Miercoles,Normal,244
+1489,Celular,Computo,727.88,27,79,No,4.4,5994,Diciembre,Miercoles,Black Friday,291
+1490,Disco SSD,Computo,151.61,23,462,No,4.9,2942,Octubre,Domingo,Fiestas Patrias,263
+1491,Tablet,Accesorios,1127.87,4,366,Si,5.0,5517,Junio,Sabado,Black Friday,294
+1492,Camara,Oficina,92.77,38,380,Si,1.4,4370,Enero,Martes,Campaña Escolar,335
+1493,Monitor,Accesorios,1619.07,30,366,Si,3.3,9139,Enero,Jueves,Fiestas Patrias,311
+1494,Escritorio,Oficina,1346.39,38,80,Si,3.9,7462,Julio,Lunes,Black Friday,388
+1495,Celular,Computo,2994.5,11,44,No,1.7,3933,Diciembre,Viernes,Black Friday,165
+1496,Celular,Tecnologia,717.63,49,232,Si,1.8,1239,Diciembre,Domingo,Campaña Escolar,303
+1497,Impresora,Tecnologia,1858.23,46,10,Si,1.8,3207,Abril,Domingo,Fiestas Patrias,264
+1498,Parlante,Accesorios,3044.46,34,259,Si,3.9,9139,Diciembre,Viernes,Fiestas Patrias,366
+1499,Router,Tecnologia,2387.23,12,393,Si,1.9,3265,Septiembre,Domingo,Navidad,249
+1500,Tablet,Tecnologia,890.29,39,476,Si,3.0,283,Abril,Domingo,Black Friday,313
